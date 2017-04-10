@@ -4,6 +4,30 @@ A curated list of awesome discoveries based on repositories found using [Github 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [c2go.py](https://github.com/elliotchance/c2go) - a tool for converting C to Go _(`Python`)_
+
+* [Goss](https://github.com/aelsabbahy/goss) - quick and easy server validation _(`Go`)_
+
+* [Face Recognition](https://github.com/ageitgey/face_recognition) - the world's simplest facial recognition api for Python and the command line _(`Python`)_
+
+* [bumpversion](https://github.com/peritus/bumpversion) - version-bump your software with a single command _(`Python`)_
+
+* [YAPF](https://github.com/google/yapf) - a formatter for Python files _(`Python`)_
+
+* [Naked Tensor](https://github.com/jostmey/NakedTensor) - bare bone examples of machine learning in TensorFlow _(`Python`)_
+
+* [FaaS](https://github.com/alexellis/faas) - functions as a Service on Docker Swarm _(`Bash`)_
+
+* [goggles](https://github.com/KyleBanks/goggles) - a GUI for your $GOPATH _(`Go`)_
+
+* [android-go](https://github.com/xlab/android-go) - a platform for writing native Android apps in Go _(`Go`)_
+
+* [CommonRegex](https://github.com/madisonmay/CommonRegex) - a collection of common regular expressions bundled with an easy to use interface _(`Python`)_
+
+* [commonregex](https://github.com/mingrammer/commonregex) - a collection of common regular expressions for Go _(`Go`)_
+
+* [LocalStack](https://github.com/atlassian/localstack) - a fully functional local AWS cloud stack _(`Python`)_
+
 * [climate](https://github.com/adtac/climate) - A huge number of tools for developers to automate Linux system _(`Bash`)_
 
 * [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON _(`NodeJS`)_
@@ -32,11 +56,11 @@ For each elements there's the main programming language used in the project, if 
 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim _(`Python`)_
 
-* [Comcast](https://github.com/tylertreat/Comcast) - Simulate common network problems like latency, bandwidth restrictions, and dropped/reordered/corrupted packets. _(`Go`)_
+* [Comcast](https://github.com/tylertreat/Comcast) - Simulate common network problems like latency, bandwidth restrictions, and dropped/reordered/corrupted packets _(`Go`)_
 
-* [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - A unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers. _(`Python`)_
+* [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - A unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers _(`Python`)_
 
-* [git-quick-stats](https://github.com/arzzen/git-quick-stats) - A simple and efficient way to access various statistics in git repository. _(`Bash`)_
+* [git-quick-stats](https://github.com/arzzen/git-quick-stats) - A simple and efficient way to access various statistics in git repository _(`Bash`)_
 
 * [Hellogopher](https://github.com/cloudflare/hellogopher) - Makefile for Go projects _(`Makefile`)_
 
