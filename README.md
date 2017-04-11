@@ -4,6 +4,12 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [Neofetch](https://github.com/dylanaraps/neofetch) - a CLI system information tool _(`Bash`)_
+
+* [git-recent](https://github.com/paulirish/git-recent) - see your latest local git branches _(`Bash`)_
+
+* [mimipenguin](https://github.com/huntergregal/mimipenguin) - a tool to dump the login password from the current linux user _(`Bash`)_
+
 * [c2go.py](https://github.com/elliotchance/c2go) - a tool for converting C to Go _(`Python`)_
 
 * [Goss](https://github.com/aelsabbahy/goss) - quick and easy server validation _(`Go`)_
