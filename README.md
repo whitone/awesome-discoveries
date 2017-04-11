@@ -1,6 +1,6 @@
 # Awesome Discoveries
 
-A curated list of awesome discoveries based on repositories found using [Github Trending](https://github.com/trending).
+A curated list of awesome discoveries based on repositories found using [GitHub Trending](https://github.com/trending).
 
 For each elements there's the main programming language used in the project, if applicable.
 
@@ -27,6 +27,8 @@ For each elements there's the main programming language used in the project, if 
 * [commonregex](https://github.com/mingrammer/commonregex) - a collection of common regular expressions for Go _(`Go`)_
 
 * [LocalStack](https://github.com/atlassian/localstack) - a fully functional local AWS cloud stack _(`Python`)_
+
+* [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - a practical guide to securing macOS
 
 * [climate](https://github.com/adtac/climate) - A huge number of tools for developers to automate Linux system _(`Bash`)_
 
