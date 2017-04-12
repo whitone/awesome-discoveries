@@ -58,7 +58,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - Setup your own secure VPN server in just a few minutes _(`Bash`)_
 
-* [gitql](https://github.com/gitql/gitql) - SQL interface to Git repositories _(`Go`)_
+* [gitquery](https://github.com/sqle/gitquery) - SQL interface to Git repositories _(`Go`)_
 
 * [status.sh](https://github.com/Cyclenerd/static_status) - Simple Bash script to generate a static status page _(`Bash`)_
 
