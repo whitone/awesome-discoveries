@@ -1,5 +1,7 @@
 # Awesome Discoveries
 
+[![Build Status](https://api.travis-ci.org/whitone/awesome-discoveries.svg?branch=master)](https://travis-ci.org/whitone/awesome-discoveries)
+
 A curated list of awesome discoveries based on repositories found using [GitHub Trending](https://github.com/trending).
 
 For each elements there's the main programming language used in the project, if applicable.
