@@ -6,6 +6,10 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [Kim](https://github.com/mikeywaites/kim) - a JSON Serialization and Marshaling framework _(`Python`)_
+
+* [Simple Icons](https://github.com/danleech/simple-icons) - SVG icons for popular brands
+
 * [Neofetch](https://github.com/dylanaraps/neofetch) - a CLI system information tool _(`Bash`)_
 
 * [git-recent](https://github.com/paulirish/git-recent) - see your latest local git branches _(`Bash`)_
