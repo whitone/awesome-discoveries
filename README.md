@@ -34,6 +34,16 @@ For each elements there's the main programming language used in the project, if 
 
 * [LocalStack](https://github.com/atlassian/localstack) - a fully functional local AWS cloud stack _(`Python`)_
 
+* [machma](https://github.com/fd0/machma) - easy parallel execution of commands with live feedback _(`Go`)_
+
+* [Public APIs](https://github.com/toddmotto/public-apis) - a collective list of free JSON APIs for use in web development
+
+* [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - cheatsheet about tips and tricks for Android Development
+
+* [Vue.js]() - a progressive, incrementally-adoptable JavaScript framework for building UI on the web _(`ECMAScript 5`)_
+
+* [python-for-android](https://github.com/kivy/python-for-android) - a packager for Python apps on Android _(`Python`)_
+
 * [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - a practical guide to securing macOS
 
 * [climate](https://github.com/adtac/climate) - A huge number of tools for developers to automate Linux system _(`Bash`)_
