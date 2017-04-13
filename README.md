@@ -46,7 +46,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - cheatsheet about tips and tricks for Android Development
 
-* [Vue.js](https://github.com/vuejs/vue) - a progressive, incrementally-adoptable JavaScript framework for building UI on the web _(`ECMAScript 5`)_
+* [Vue.js](https://github.com/vuejs/vue) - a progressive, incrementally-adoptable JavaScript framework for building UI on the web _(`JavaScript`)_
 
 * [python-for-android](https://github.com/kivy/python-for-android) - a packager for Python apps on Android _(`Python`)_
 
@@ -193,3 +193,9 @@ For each elements there's the main programming language used in the project, if 
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - creative and unusual things that can be done with the Windows API _(`C#`)_
 
 * [googler](https://github.com/jarun/googler) - a power tool to Google (Web & News) and Google Site Search from the command line _(`Python`)_
+
+* [jid](https://github.com/simeji/jid) - json incremental digger _(`Go`)_
+
+* [Rump](https://github.com/stickermule/rump) - hot sync two Redis databases using dumps _(`Go`)_
+
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - a mostly reasonable approach to JavaScript
