@@ -57,7 +57,21 @@ For each elements there's the main programming language used in the project, if 
 * [FlatBuffers](https://github.com/google/flatbuffers) - an efficient cross platform serialization library for games and other memory constrained apps _(`C` `C#` `C++` `Go`  `Java` `JavaScript` `PHP` `Python`)_
 
 * [Pipeline](https://github.com/myntra/pipeline) - a package to build multi-staged concurrent workflows with a centralized logging output _(`Go`)_
- 
+
+* [Hermes](https://github.com/matcornic/hermes) - generates clean, responsive HTML e-mails for sending transactional mail _(`Go`)_
+
+* [Task](https://github.com/go-task/task) - simple task runner / Make alternative _(`Go`)_
+
+* [Packer](https://github.com/hashicorp/packer) - a tool for building identical machine images for multiple platforms from a single source configuration _(`Go`)_
+
+* [gkill](https://github.com/heppu/gkill) - interactive process killer for Linux and macOS _(`Go`)_
+
+* [Goto](https://github.com/Fakerr/goto) - fast command line navigation _(`Go`)_
+
+* [gobetween](https://github.com/yyyar/gobetween) - modern & minimalistic load balancer and reverse-proxy for the Cloud era _(`Go`)_
+
+* [Sonnet](https://github.com/deepmind/sonnet) - a library built on top of TensorFlow for building complex neural networks _(`Python`)_
+
 * [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - a practical guide to securing macOS
 
 * [climate](https://github.com/adtac/climate) - A huge number of tools for developers to automate Linux system _(`Bash`)_
