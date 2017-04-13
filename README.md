@@ -46,10 +46,18 @@ For each elements there's the main programming language used in the project, if 
 
 * [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - cheatsheet about tips and tricks for Android Development
 
-* [Vue.js]() - a progressive, incrementally-adoptable JavaScript framework for building UI on the web _(`ECMAScript 5`)_
+* [Vue.js](https://github.com/vuejs/vue) - a progressive, incrementally-adoptable JavaScript framework for building UI on the web _(`ECMAScript 5`)_
 
 * [python-for-android](https://github.com/kivy/python-for-android) - a packager for Python apps on Android _(`Python`)_
 
+* [drive](https://github.com/odeke-em/drive) - a tiny program to pull or push Google Drive files _(`Go`)_
+
+* [immortal](https://github.com/immortal/immortal) - a *nix cross-platform (OS agnostic) supervisor _(`Go`)_
+
+* [FlatBuffers](https://github.com/google/flatbuffers) - an efficient cross platform serialization library for games and other memory constrained apps _(`C` `C#` `C++` `Go`  `Java` `JavaScript` `PHP` `Python`)_
+
+* [Pipeline](https://github.com/myntra/pipeline) - a package to build multi-staged concurrent workflows with a centralized logging output _(`Go`)_
+ 
 * [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - a practical guide to securing macOS
 
 * [climate](https://github.com/adtac/climate) - A huge number of tools for developers to automate Linux system _(`Bash`)_
