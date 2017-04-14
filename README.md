@@ -233,3 +233,13 @@ For each elements there's the main programming language used in the project, if 
 * [Maya](https://github.com/kennethreitz/maya) - timestamps for Humans™ _(`Python`)_
 
 * [RediSQL](https://github.com/RedBeardLab/rediSQL) - a Redis module that embedded SQLite _(`C`)_
+
+* [smenu](https://github.com/p-gen/smenu) - a selection filter just like sed is an editing filter _(`C`)_
+
+* [Gosaic](https://github.com/atongen/gosaic) - create your own image mosaics _(`Go`)_
+
+* [jsoniter](https://github.com/json-iterator/go) - fast and flexible JSON parser _(`Go`)_
+
+* [godb](https://github.com/samonzeweb/godb) - a Go query builder and struct mapper _(`Go`)_
+
+* [Pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy _(`Python`)_
