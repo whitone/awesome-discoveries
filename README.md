@@ -243,3 +243,19 @@ For each elements there's the main programming language used in the project, if 
 * [godb](https://github.com/samonzeweb/godb) - a Go query builder and struct mapper _(`Go`)_
 
 * [Pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy _(`Python`)_
+
+* [humanize](https://github.com/jmoiron/humanize) - Python humanize functions _(`Python`)_
+
+* [FSSB](https://github.com/adtac/fssb) - filesystem sandbox for Linux _(`C`)_
+
+* [bashify](https://github.com/zombieleet/bashify) - few helper functions _(`Bash`)_
+
+* [secureserver](https://github.com/Xeoncross/secureserver) - a simple, secured default HTTP(S) server _(`Go`)_
+
+* [Proctal](https://github.com/daniel-araujo/proctal) - CLI and C library to manipulate the address space of a program on Linux _(`C`)_
+
+* [Elizabeth](https://github.com/lk-geimfari/elizabeth) - a fast and easy to use Python library for generating dummy data for a variety of purposes _(`Python`)_
+
+* [Fake API](https://github.com/rodkranz/fakeApi) - a simple way to mock your api response _(`Go`)_
+
+* [Prometheus](https://github.com/prometheus/prometheus) - a monitoring system and time series database _(`Go`)_
