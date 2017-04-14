@@ -209,3 +209,29 @@ For each elements there's the main programming language used in the project, if 
 * [Ana](https://github.com/dannyvankooten/ana) - open source web analytics _(`Go` `JavaScript`)_
 
 * [goa](https://github.com/goadesign/goa) - a framework for building micro-services and REST APIs using a unique design-first approach _(`Go`)_
+
+* [Sloth](https://github.com/coolcooldee/sloth) - a tool to generate scaffold code from SQL databases _(`Java`)_
+
+* [OBS Studio](https://github.com/jp9000/obs-studio) - free and open source software for live streaming and screen recording _(`C++`)_
+
+* [mpv](https://github.com/mpv-player/mpv) - a media player based on MPlayer and mplayer2 _(`C`)_
+
+* [GoAccess](https://github.com/allinurl/goaccess) - an open source real-time web log analyzer and interactive viewer _(`C`)_
+
+* [Black Magic Probe](https://github.com/blacksphere/blackmagic) - a modern in-application debugging tool for embedded microprocessors _(`C`)_
+
+* [FDUPES](https://github.com/adrianlopezroche/fdupes) - a program for identifying duplicate files residing within specified directories _(`C`)_
+
+* [MicroPython](https://github.com/micropython/micropython) - a lean and efficient Python implementation for microcontrollers and constrained systems _(`C` `Python`)_
+
+* [binstale](https://github.com/shurcooL/binstale) - tells you whether the binaries in your GOPATH/bin are stale or up to date _(`Go`)_
+
+* [Single-file C/C++ libraries](https://github.com/nothings/single_file_libs) - List of single-file public-domain/open source C/C++ libraries with minimal dependencies
+
+* [clib](https://github.com/clibs/clib) - package manager for the C programming language _(`C`)_
+
+* [stb](https://github.com/nothings/stb) - single-file public domain libraries _(`C`)_
+
+* [Maya](https://github.com/kennethreitz/maya) - Timestamps for Humans™ _(`Python`)_
+
+* [RediSQL](https://github.com/RedBeardLab/rediSQL) - a Redis module that embedded SQLite _(`C`)_
