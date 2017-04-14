@@ -279,3 +279,5 @@ For each elements there's the main programming language used in the project, if 
 * [Popup OpenVPN](https://github.com/robbintt/popup-openvpn) - make a self hosted OpenVPN server in 15 minutes _(`Bash`)_
 
 * [KickThemOut](https://github.com/k4m4/kickthemout) - kick devices off your network by performing an ARP Spoof attack _(`Python`)_
+
+* [HyperMake](https://github.com/evo-cloud/hmake) - a build tool which builds projects without pre-requisites _(`Go`)_
