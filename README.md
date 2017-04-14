@@ -46,7 +46,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - cheatsheet about tips and tricks for Android Development
 
-* [Vue.js](https://github.com/vuejs/vue) - a progressive, incrementally-adoptable JavaScript framework for building UI on the web _(`JavaScript`)_
+* [Vue.js](https://github.com/vuejs/vue) - a progressive, incrementally-adoptable framework for building UI on the web _(`JavaScript`)_
 
 * [python-for-android](https://github.com/kivy/python-for-android) - a packager for Python apps on Android _(`Python`)_
 
@@ -199,3 +199,13 @@ For each elements there's the main programming language used in the project, if 
 * [Rump](https://github.com/stickermule/rump) - hot sync two Redis databases using dumps _(`Go`)_
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - a mostly reasonable approach to JavaScript
+
+* [jsonparser](https://github.com/buger/jsonparser) - alternative JSON parser, so far fastest _(`Go`)_
+
+* [Plowshare](https://github.com/mcrapet/plowshare) - a set of command-line tools designed for managing file-sharing websites _(`Bash`)_
+
+* [Last.Backend](https://github.com/lastbackend/lastbackend) - an open-source platform to build a personal cloud based on kubernetes technology _(`Go`)_
+
+* [Ana](https://github.com/dannyvankooten/ana) - open source web analytics _(`Go` `JavaScript`)_
+
+* [goa](https://github.com/goadesign/goa) - a framework for building micro-services and REST APIs using a unique design-first approach _(`Go`)_
