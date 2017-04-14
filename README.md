@@ -259,3 +259,23 @@ For each elements there's the main programming language used in the project, if 
 * [Fake API](https://github.com/rodkranz/fakeApi) - a simple way to mock your api response _(`Go`)_
 
 * [Prometheus](https://github.com/prometheus/prometheus) - a monitoring system and time series database _(`Go`)_
+
+* [Lynis](https://github.com/CISOfy/lynis) - a security auditing for UNIX derivatives like Linux, macOS, BSD, and others _(`Shell`)_
+
+* [gopli](https://github.com/timakin/gopli) - DB replication tool to synchronize data with multi environments _(`Go`)_
+
+* [Alerta](https://github.com/guardian/alerta) - a monitoring system _(`Python`)_
+
+* [Watchserver](https://github.com/lelandbatey/watchserver) - a server that watches a file/folder and notifies clients about changes _(`Go`)_
+
+* [RobotGo](https://github.com/go-vgo/robotgo) - a cross-platform desktop automation _(`Go`)_
+
+* [radare2](https://github.com/radare/radare2) - portable unix-like reverse engineering framework and commandline tools _(`C`)_
+
+* [Snoopy Logger](https://github.com/a2o/snoopy) - a tiny library that logs all executed commands on your system to syslog _(`C`)_
+
+* [Alacritty](https://github.com/jwilm/alacritty) - a cross-platform, GPU-accelerated terminal emulator _(`Rust`)_
+
+* [Popup OpenVPN](https://github.com/robbintt/popup-openvpn) - make a self hosted OpenVPN server in 15 minutes _(`Bash`)_
+
+* [KickThemOut](https://github.com/k4m4/kickthemout) - kick devices off your network by performing an ARP Spoof attack _(`Python`)_
