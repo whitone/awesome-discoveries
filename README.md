@@ -180,7 +180,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [GopherJS](https://github.com/gopherjs/gopherjs) - a compiler from Go to JavaScript _(`Go`)_
 
-* [Thirsty](https://github.com/lakshaykalbhor/thirsty) - shell prompt reminds to drink water _(`Shell`)_
+* [Thirsty](https://github.com/kalbhor/thirsty) - shell prompt reminds to drink water _(`Shell`)_
 
 * [create_ap](https://github.com/oblique/create_ap) - creates a NATed or Bridged WiFi Access Point _(`Bash`)_
 
