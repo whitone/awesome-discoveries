@@ -6,6 +6,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [Hoverfly](https://github.com/SpectoLabs/hoverfly) - a lightweight, open source API simulation tool _(`Go`)_
+
 * [Fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul _(`Go`)_
 
 * [bd](https://github.com/vigneshwaranr/bd) - quickly go back to a parent directory _(`Bash`)_
