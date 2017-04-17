@@ -6,6 +6,10 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [Fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul _(`Go`)_
+
+* [bd](https://github.com/vigneshwaranr/bd) - quickly go back to a parent directory _(`Bash`)_
+
 * [Kim](https://github.com/mikeywaites/kim) - a JSON Serialization and Marshaling framework _(`Python`)_
 
 * [Simple Icons](https://github.com/danleech/simple-icons) - SVG icons for popular brands
