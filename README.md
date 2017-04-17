@@ -285,3 +285,9 @@ For each elements there's the main programming language used in the project, if 
 * [KickThemOut](https://github.com/k4m4/kickthemout) - kick devices off your network by performing an ARP Spoof attack _(`Python`)_
 
 * [HyperMake](https://github.com/evo-cloud/hmake) - a build tool which builds projects without pre-requisites _(`Go`)_
+
+* [Gallium](https://github.com/alexflint/gallium) - a library for managing windows, menus, dock icons, and desktop notifications _(`Go`)_
+
+* [httpstat](https://github.com/davecheney/httpstat) - like curl -v with colours _(`Go`)_
+
+* [dripcap](https://github.com/dripcap/dripcap) - caffeinated packet analyzer _(`JavaScript`)_
