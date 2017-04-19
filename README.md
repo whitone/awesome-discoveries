@@ -6,6 +6,12 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [periph](https://github.com/google/periph) - peripherals I/O in Go _(`Go`)_
+
+* [slit](https://github.com/tigrawap/slit) - a modern PAGER for viewing logs, get more than most in less time _(`Go`)_
+
+* [LCUI](https://github.com/lc-soft/LCUI) - a simple GUI library, it is written in C, support XML and CSS _(`C`)_
+
 * [Hoverfly](https://github.com/SpectoLabs/hoverfly) - a lightweight, open source API simulation tool _(`Go`)_
 
 * [Fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul _(`Go`)_
