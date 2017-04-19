@@ -350,8 +350,6 @@ For each elements there's the main programming language used in the project, if 
 
 * [gron](https://github.com/tomnomnom/gron) - make JSON greppable! _(`Go`)_
 
-* [git-recent](https://github.com/paulirish/git-recent) - see your latest local git branches, formatted real fancy _(`Shell`)_
-
 * [chalice](https://github.com/awslabs/chalice) - Python Serverless Microframework for AWS _(`Python`)_
 
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - collaborative list of open-source iOS apps _(`Swift`)_
@@ -382,8 +380,6 @@ For each elements there's the main programming language used in the project, if 
 
 * [bpkg](https://github.com/bpkg/bpkg) - lightweight bash package manager _(`Shell`)_
 
-* [clib](https://github.com/clibs/clib) - C package manager-ish _(`C`)_
-
 * [cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line _(`Python`)_
 
 * [BruteXSS](https://github.com/shawarkhanethicalhacker/BruteXSS) - cross-site scripting bruteforcer _(`Python`)_
@@ -410,8 +406,6 @@ For each elements there's the main programming language used in the project, if 
 
 * [doc2text](https://github.com/jlsutherland/doc2text) - detect text blocks and OCR poorly scanned PDFs in bulk _(`Python`)_
 
-* [checkup](https://github.com/sourcegraph/checkup) - distributed, lock-free, self-hosted health checks and status pages _(`Go`)_
-
 * [noti](https://github.com/variadico/noti) - trigger notifications when a process completes _(`Go`)_
 
 * [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple _(`Python`)_
@@ -425,10 +419,6 @@ For each elements there's the main programming language used in the project, if 
 * [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - this is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers _(`JavaScript`)_
 
 * [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! _(`C#`)_
-
-* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - a collection of awesome Mac applications and tools for developers and designers
-
-* [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - use your OS X terminal shell to do awesome things
 
 * [libraries](https://github.com/gozfree/libraries) - lightweight libraries, wrapper and extension of POSIX _(`C`)_
 
@@ -462,9 +452,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [wwdc-downloader](https://github.com/ohoachuck/wwdc-downloader) - WWDC 2016 video downloader script _(`Swift`)_
 
-* [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites _(`Shell`)_
-
-* [dokku](https://github.com/dokku/dokku) - a docker-powered PaaS that helps you build and manage the lifecycle of applications _(`Shell`)_
+* [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 
 * [Træfik](https://github.com/containous/traefik) - a modern reverse proxy _(`Go`)_
 
