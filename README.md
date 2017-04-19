@@ -442,7 +442,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [iris](https://github.com/kataras/iris) - the fastest web framework for Go, HTTP/2 Ready-To-GO _(`Go`)_
 
-* [places](https://github.com/algolia/places) - turn any <input> into an address autocomplete _(`JavaScript`)_
+* [places](https://github.com/algolia/places) - turn any HTML input form into an address autocomplete _(`JavaScript`)_
 
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - a curated list of awesome Machine Learning frameworks, libraries and software
 
