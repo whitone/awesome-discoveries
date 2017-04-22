@@ -6,6 +6,10 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [timy](https://github.com/ramonsaraiva/timy) - minimalist measurement of python code time _(`Python`)_
+
+* [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites _(`Go`)_
+
 * [periph](https://github.com/google/periph) - peripherals I/O in Go _(`Go`)_
 
 * [slit](https://github.com/tigrawap/slit) - a modern PAGER for viewing logs, get more than most in less time _(`Go`)_
