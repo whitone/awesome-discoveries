@@ -6,6 +6,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine _(`C`)_
+
 * [timy](https://github.com/ramonsaraiva/timy) - minimalist measurement of python code time _(`Python`)_
 
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites _(`Go`)_
