@@ -6,7 +6,11 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
-* [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine _(`C`)_
+* [Clight](https://github.com/FedeDP/Clight) - a daemon that turns your webcam into a light sensor: it will adjust screen backlight based on ambient brightness _(`C`)_
+
+* [asdf](https://github.com/asdf-vm/asdf) - extendable version manager _(`Shell`)_
+
+* [OpenLara](https://github.com/XProger/OpenLara) - classic Tomb Raider open-source engine _(`C`)_
 
 * [timy](https://github.com/ramonsaraiva/timy) - minimalist measurement of python code time _(`Python`)_
 
