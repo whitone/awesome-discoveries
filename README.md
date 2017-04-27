@@ -6,6 +6,18 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal _(`Python`)_
+
+* [aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods _(`Go`)_
+
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices) - a curated list of Microservice Architecture related principles and technologies
+
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - a curated list of amazingly awesome open source sysadmin resources
+
+* [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
+
+* [free-for-dev](https://github.com/ripienaar/free-for-dev) - a list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
 * [transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line _(`Go`)_
 
 * [postal](https://github.com/atech/postal) - a fully featured open source mail delivery platform for incoming & outgoing e-mail _(`Ruby`)_
