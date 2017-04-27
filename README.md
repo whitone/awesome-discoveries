@@ -6,6 +6,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line _(`Go`)_
+
 * [postal](https://github.com/atech/postal) - a fully featured open source mail delivery platform for incoming & outgoing e-mail _(`Ruby`)_
 
 * [Clight](https://github.com/FedeDP/Clight) - a daemon that turns your webcam into a light sensor: it will adjust screen backlight based on ambient brightness _(`C`)_
