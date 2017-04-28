@@ -6,6 +6,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [py-backwards](https://github.com/nvbn/py-backwards) - python to python compiler that allows you to use Python 3.6 features in older versions _(`Python`)_
+
 * [transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line _(`Go`)_
 
 * [postal](https://github.com/atech/postal) - a fully featured open source mail delivery platform for incoming & outgoing e-mail _(`Ruby`)_
