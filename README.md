@@ -6,6 +6,12 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [Maintainer](https://github.com/gaocegege/maintainer) - generate AUTHORS, CONTRIBUTING, and CHANGELOG for your GitHub repository _(`Go`)_
+
+* [Typefont](https://github.com/Sirvasile/Typefont) - an algorithm written entirely in JavaScript that recognises the font of a text in a image using the Tesseract optical character recognition engine and some image processing libraries _(`JavaScript`)_
+
+* [vps-comparison](https://github.com/joedicastro/vps-comparison) - a comparison between some VPS providers, it uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify _(`Python`)_
+
 * [rufus](https://github.com/pbatard/rufus) - the Reliable USB Formatting Utility _(`C`)_
 
 * [py-backwards](https://github.com/nvbn/py-backwards) - python to python compiler that allows you to use Python 3.6 features in older versions _(`Python`)_
