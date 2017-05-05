@@ -6,6 +6,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [Moby](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems _(`Go`)_
+
 * [Maintainer](https://github.com/gaocegege/maintainer) - generate AUTHORS, CONTRIBUTING, and CHANGELOG for your GitHub repository _(`Go`)_
 
 * [Typefont](https://github.com/Sirvasile/Typefont) - an algorithm written entirely in JavaScript that recognises the font of a text in a image using the Tesseract optical character recognition engine and some image processing libraries _(`JavaScript`)_
