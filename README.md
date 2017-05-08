@@ -6,6 +6,10 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [config](https://github.com/joshbetz/config) - a small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP _(`Go`)_
+
+* [Box](https://github.com/cdgriffith/Box) - Python dictionaries with recursive dot notation access _(`Python`)_
+
 * [Moby](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems _(`Go`)_
 
 * [Maintainer](https://github.com/gaocegege/maintainer) - generate AUTHORS, CONTRIBUTING, and CHANGELOG for your GitHub repository _(`Go`)_
