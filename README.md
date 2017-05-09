@@ -6,6 +6,10 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [rdrp](https://github.com/kshvmdn/rdrp) - a cross-platform command line tool for sending and receiving files over your local network, inspired by AirDrop _(`Go`)_
+
+* [dt](https://github.com/42wim/dt) - DNS tool that displays information about your domain _(`Go`)_
+
 * [config](https://github.com/joshbetz/config) - a small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP _(`Go`)_
 
 * [Box](https://github.com/cdgriffith/Box) - Python dictionaries with recursive dot notation access _(`Python`)_
