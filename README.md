@@ -6,6 +6,14 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - count the number of people around you by monitoring wifi signals _(`Python`)_
+
+* [fsql](https://github.com/kshvmdn/fsql) - search through your filesystem with SQL-esque queries _(`Go`)_
+
+* [ShellCheck](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts _(`Haskell`)_
+
+* [direnv](https://github.com/direnv/direnv) - unclutter your .profile _(`Go`)_
+
 * [rdrp](https://github.com/kshvmdn/rdrp) - a cross-platform command line tool for sending and receiving files over your local network, inspired by AirDrop _(`Go`)_
 
 * [dt](https://github.com/42wim/dt) - DNS tool that displays information about your domain _(`Go`)_
