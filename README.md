@@ -6,6 +6,10 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [complete](https://github.com/posener/complete) - a tool for bash writing bash completion _(`Go`)_
+
+* [tbot](https://github.com/yanzay/tbot) - Telegram Bot Server _(`Go`)_
+
 * [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - count the number of people around you by monitoring wifi signals _(`Python`)_
 
 * [fsql](https://github.com/kshvmdn/fsql) - search through your filesystem with SQL-esque queries _(`Go`)_
