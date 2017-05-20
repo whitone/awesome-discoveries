@@ -6,6 +6,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability _(`Perl`)_
+
 * [complete](https://github.com/posener/complete) - a tool for bash writing bash completion _(`Go`)_
 
 * [tbot](https://github.com/yanzay/tbot) - Telegram Bot Server _(`Go`)_
