@@ -6,6 +6,12 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [bashy](https://github.com/pablopunk/bashy) - extremely fast and simple git prompt for bash _(`Bash`)_
+
+* [req](https://github.com/imroc/req) - a golang http request library for human _(`Go`)_
+
+* [frp](https://github.com/fatedier/frp) - a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet _(`Go`)_
+
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability _(`Perl`)_
 
 * [complete](https://github.com/posener/complete) - a tool for bash writing bash completion _(`Go`)_
