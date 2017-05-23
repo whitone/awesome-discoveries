@@ -10,8 +10,6 @@ For each elements there's the main programming language used in the project, if 
 
 * [req](https://github.com/imroc/req) - a golang http request library for human _(`Go`)_
 
-* [frp](https://github.com/fatedier/frp) - a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet _(`Go`)_
-
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability _(`Perl`)_
 
 * [complete](https://github.com/posener/complete) - a tool for bash writing bash completion _(`Go`)_
@@ -464,7 +462,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [awesome](https://github.com/sindresorhus/awesome) - curated list of awesome lists
 
-* [frp](https://github.com/fatedier/frp) - a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. _(`Go`)_
+* [frp](https://github.com/fatedier/frp) - a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet _(`Go`)_
 
 * [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - a list of awesome applications, softwares, tools and other materials for Linux distros
 
