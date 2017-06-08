@@ -6,6 +6,10 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool _(`Go`)_
+
+* [distroless](https://github.com/GoogleCloudPlatform/distroless) - "Distroless" Docker Images that contain only your application and its runtime dependencies _(`Python`)_
+
 * [bashy](https://github.com/pablopunk/bashy) - extremely fast and simple git prompt for bash _(`Bash`)_
 
 * [req](https://github.com/imroc/req) - a golang http request library for human _(`Go`)_
