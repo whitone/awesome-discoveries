@@ -200,7 +200,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [q](https://github.com/y0ssar1an/q) - simply debug print _(`Go`)_
 
-* [autovpn](https://github.com/adtac/autovpn) - connect to random VPN servers from vpngate.net in a selected country 
+* [autovpn](https://github.com/adtac/autovpn) - connect to random VPN servers from vpngate.net in a selected country
 
 * [git-recall](https://github.com/Fakerr/git-recall) - a git-log with ncurses _(`NodeJS`)_
 
@@ -468,7 +468,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [frp](https://github.com/fatedier/frp) - a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet _(`Go`)_
 
-* [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - a list of awesome applications, softwares, tools and other materials for Linux distros
+* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - a list of awesome applications, softwares, tools and other materials for Linux distros
 
 * [checkup](https://github.com/sourcegraph/checkup) - distributed, lock-free, self-hosted health checks and status pages _(`Go`)_
 
@@ -498,7 +498,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [freeline](https://github.com/alibaba/freeline) - a super fast build tool for Android, an alternative to Instant Run _(`Java`)_
 
-* [free-programming-books](https://github.com/vhf/free-programming-books) - freely available programming books
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - freely available programming books
 
 * [AppDevKit](https://github.com/yahoo/AppDevKit) - an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs _(`Objective-C`)_
 
@@ -555,4 +555,3 @@ For each elements there's the main programming language used in the project, if 
 * [slfsrv](https://github.com/BrentNoorda/slfsrv) - create simple, cross-platform GUI applications, or wrap GUIs around command-line applications, using HTML/JS/CSS and your own browser _(`JavaScript`)_
 
 * [pyspider](https://github.com/binux/pyspider) - a powerful spider (web crawler) system _(`Python`)_
-
