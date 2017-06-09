@@ -6,6 +6,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [gocker](https://github.com/ilourt/gocker) - A starter project using docker and golang _(`Go`)_
+
 * [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool _(`Go`)_
 
 * [distroless](https://github.com/GoogleCloudPlatform/distroless) - "Distroless" Docker Images that contain only your application and its runtime dependencies _(`Python`)_
