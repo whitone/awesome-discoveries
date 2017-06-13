@@ -6,6 +6,14 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [bingrep](https://github.com/m4b/bingrep) - Like grep, but for binaries _(`Rust`)_
+
+* [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers
+
+* [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 _(`CSS`)_
+
+* [welder](https://github.com/pch/welder) - Set up your Linux server with plain shell scripts _(`Bash`)_
+
 * [gocker](https://github.com/ilourt/gocker) - A starter project using docker and golang _(`Go`)_
 
 * [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool _(`Go`)_
