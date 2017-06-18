@@ -6,17 +6,25 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
-* [bingrep](https://github.com/m4b/bingrep) - Like grep, but for binaries _(`Rust`)_
+* [yotaq](https://github.com/JoseTomasTocino/yotaq) - yotaq - Your Own Task Queue for Python _(`Python`)_
 
-* [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers
+* [apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is a tool that simplifies the process of finding updates for your installed apps _(`Java`)_
+
+* [simple-httpd](https://github.com/briandowns/simple-httpd) - a replacement for Python SimpleHTTPServer and optionally provides automatic TLS via Let's Encrypt over HTTP2 or generated self-signed certificates _(`Go`)_
+
+* [sudo](https://github.com/mattn/sudo) - sudo for windows _(`Go`)_
+
+* [bingrep](https://github.com/m4b/bingrep) - like grep, but for binaries _(`Rust`)_
+
+* [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - essential Cheat Sheets for deep learning and machine learning researchers
 
 * [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 _(`CSS`)_
 
-* [welder](https://github.com/pch/welder) - Set up your Linux server with plain shell scripts _(`Bash`)_
+* [welder](https://github.com/pch/welder) - set up your Linux server with plain shell scripts _(`Bash`)_
 
-* [gocker](https://github.com/ilourt/gocker) - A starter project using docker and golang _(`Go`)_
+* [gocker](https://github.com/ilourt/gocker) - a starter project using docker and golang _(`Go`)_
 
-* [duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool _(`Go`)_
+* [duplicacy](https://github.com/gilbertchen/duplicacy) - a new generation cloud backup tool _(`Go`)_
 
 * [distroless](https://github.com/GoogleCloudPlatform/distroless) - "Distroless" Docker Images that contain only your application and its runtime dependencies _(`Python`)_
 
