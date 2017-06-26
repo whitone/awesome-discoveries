@@ -6,9 +6,13 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
-* [yotaq](https://github.com/JoseTomasTocino/yotaq) - yotaq - Your Own Task Queue for Python _(`Python`)_
+* [prest](https://github.com/nuveo/prest) - a fully RESTful API from any existing PostgreSQL database _(`Go`)_
 
-* [apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is a tool that simplifies the process of finding updates for your installed apps _(`Java`)_
+* [termplay](https://github.com/legolord208/termplay) - play image/video in your terminal _(`Rust`)_
+
+* [yotaq](https://github.com/JoseTomasTocino/yotaq) - Your Own Task Queue for Python _(`Python`)_
+
+* [APKUpdater](https://github.com/rumboalla/apkupdater) -  a tool that simplifies the process of finding updates for your installed apps _(`Java`)_
 
 * [simple-httpd](https://github.com/briandowns/simple-httpd) - a replacement for Python SimpleHTTPServer and optionally provides automatic TLS via Let's Encrypt over HTTP2 or generated self-signed certificates _(`Go`)_
 
