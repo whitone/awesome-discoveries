@@ -526,7 +526,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [AppDevKit](https://github.com/yahoo/AppDevKit) - an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs _(`Objective-C`)_
 
-* [WeFlow](https://github.com/weixin/WeFlow) - an efficient, powerful, cross-platform web front-end development workflow tool  _(`JavaScript`)_
+* [WeFlow](https://github.com/Tencent/WeFlow) - an efficient, powerful, cross-platform web front-end development workflow tool  _(`JavaScript`)_
 
 * [yakyak](https://github.com/yakyak/yakyak) - desktop chat client for Google Hangouts _(`CoffeeScript`)_
 
