@@ -6,6 +6,14 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [ssl_logger](https://github.com/google/ssl_logger) - decrypts and logs a process's SSL traffic _(`Python`)_
+
+* [chart](https://github.com/marianogappa/chart) - quick & smart charting for STDIN _(`Go`)_
+
+* [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - a collection of small bash scripts for heavy terminal users _(`Shell`)_
+
+* [VirtualAPK](https://github.com/didi/VirtualAPK) - a powerful and lightweight plugin framework for Android _(`Java`)_
+
 * [DockerSlim](https://github.com/docker-slim/docker-slim) -  optimize and secure your Docker containers _(`Go`)_
 
 * [prest](https://github.com/nuveo/prest) - a fully RESTful API from any existing PostgreSQL database _(`Go`)_
