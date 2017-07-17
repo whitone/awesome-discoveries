@@ -120,7 +120,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [Kim](https://github.com/mikeywaites/kim) - a JSON Serialization and Marshaling framework _(`Python`)_
 
-* [Simple Icons](https://github.com/danleech/simple-icons) - SVG icons for popular brands
+* [Simple Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
 * [Neofetch](https://github.com/dylanaraps/neofetch) - a CLI system information tool _(`Bash`)_
 
@@ -150,7 +150,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [commonregex](https://github.com/mingrammer/commonregex) - a collection of common regular expressions for Go _(`Go`)_
 
-* [LocalStack](https://github.com/atlassian/localstack) - a fully functional local AWS cloud stack _(`Python`)_
+* [LocalStack](https://github.com/localstack/localstack) - a fully functional local AWS cloud stack _(`Python`)_
 
 * [machma](https://github.com/fd0/machma) - easy parallel execution of commands with live feedback _(`Go`)_
 
