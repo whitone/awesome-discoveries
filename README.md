@@ -6,6 +6,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - automated WebSocket & WAMP protocol Testsuite _(`Python`)_
+
 * [colorls](https://github.com/athityakumar/colorls) - a Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons _(`Ruby`)_
 
 * [ssl_logger](https://github.com/google/ssl_logger) - decrypts and logs a process's SSL traffic _(`Python`)_
