@@ -366,7 +366,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [Proctal](https://github.com/daniel-araujo/proctal) - CLI and C library to manipulate the address space of a program on Linux _(`C`)_
 
-* [Elizabeth](https://github.com/lk-geimfari/elizabeth) - a fast and easy to use Python library for generating dummy data for a variety of purposes _(`Python`)_
+* [Mimesis](https://github.com/lk-geimfari/mimesis) - a fast and easy to use Python library for generating dummy data for a variety of purposes _(`Python`)_
 
 * [Fake API](https://github.com/rodkranz/fakeApi) - a simple way to mock your api response _(`Go`)_
 
