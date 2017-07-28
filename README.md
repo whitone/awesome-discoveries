@@ -1,7 +1,5 @@
 ![Awesome Discoveries logo](https://cdn.rawgit.com/whitone/awesome-discoveries/master/media/logo.png)
 
-# Awesome Discoveries
-
 A curated list of awesome discoveries based on repositories found using [GitHub Trending](https://github.com/trending).
 
 For each elements there's the main programming language used in the project, if applicable.
