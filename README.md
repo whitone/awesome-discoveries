@@ -1,4 +1,4 @@
-![Awesome Discoveries logo](https://raw.githubusercontent.com/whitone/awesome-discoveries/master/media/logo.png)
+<h1 align="center"><img src="https://raw.githubusercontent.com/whitone/awesome-discoveries/master/media/logo.png" alt="Awesome Discoveries logo"></h1>
 
 A curated list of awesome discoveries based on repositories found using [GitHub Trending](https://github.com/trending).
 
