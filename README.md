@@ -1,6 +1,6 @@
-# Awesome Discoveries
+![Awesome Discoveries logo](https://cdn.rawgit.com/whitone/awesome-discoveries/master/media/logo.png)
 
-[![Build Status](https://api.travis-ci.org/whitone/awesome-discoveries.svg?branch=master)](https://travis-ci.org/whitone/awesome-discoveries)
+# Awesome Discoveries
 
 A curated list of awesome discoveries based on repositories found using [GitHub Trending](https://github.com/trending).
 
