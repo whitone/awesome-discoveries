@@ -4,6 +4,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [mailit](https://github.com/dthree/mailit) - a tiny drop-in REST API to send emails _(`JavaScript`)_
+
 * [autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - automated WebSocket & WAMP protocol Testsuite _(`Python`)_
 
 * [colorls](https://github.com/athityakumar/colorls) - a Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons _(`Ruby`)_
