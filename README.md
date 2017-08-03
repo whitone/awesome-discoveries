@@ -456,7 +456,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [gron](https://github.com/tomnomnom/gron) - make JSON greppable! _(`Go`)_
 
-* [chalice](https://github.com/awslabs/chalice) - Python Serverless Microframework for AWS _(`Python`)_
+* [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS _(`Python`)_
 
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - collaborative list of open-source iOS apps _(`Swift`)_
 
