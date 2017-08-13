@@ -4,6 +4,10 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [aws-sam-local](https://github.com/awslabs/aws-sam-local) - AWS SAM Local is a CLI tool for local development and testing of Serverless applications _(`Go`)_
+
+* [gtop](https://github.com/aksakalli/gtop) - system monitoring dashboard for terminal _(`JavaScript`)_
+
 * [mailit](https://github.com/dthree/mailit) - a tiny drop-in REST API to send emails _(`JavaScript`)_
 
 * [autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - automated WebSocket & WAMP protocol Testsuite _(`Python`)_
