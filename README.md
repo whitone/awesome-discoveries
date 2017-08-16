@@ -4,6 +4,12 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [abootool](https://github.com/alephsecurity/abootool) - simple tool to dynamically discover hidden fastboot OEM commands based on static knowledge _(`Python`)_
+
+* [mkchromecast](https://github.com/muammar/mkchromecast) - cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices _(`Python`)_
+
+* [Zeus](https://github.com/DenizParlak/Zeus) - AWS auditing and hardening tool _(`Shell`)_
+
 * [aws-sam-local](https://github.com/awslabs/aws-sam-local) - AWS SAM Local is a CLI tool for local development and testing of Serverless applications _(`Go`)_
 
 * [gtop](https://github.com/aksakalli/gtop) - system monitoring dashboard for terminal _(`JavaScript`)_
