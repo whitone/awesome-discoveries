@@ -4,6 +4,8 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [Plumbum](https://github.com/tomerfiliba/plumbum) - shell combinators _(`Python`)_
+
 * [poormanscdn](https://github.com/alexandres/poormanscdn) - a caching proxy to Amazon S3 _(`Go`)_
 
 * [Go Graphics](https://github.com/fogleman/gg) - 2D rendering in Go with a simple API _(`Go`)_
