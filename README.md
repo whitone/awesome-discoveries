@@ -4,6 +4,12 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+* [poormanscdn](https://github.com/alexandres/poormanscdn) - a caching proxy to Amazon S3 _(`Go`)_
+
+* [Go Graphics](https://github.com/fogleman/gg) - 2D rendering in Go with a simple API _(`Go`)_
+
+* [go-prompt](https://github.com/c-bata/go-prompt) - building a powerful interactive prompt in Go, inspired by python-prompt-toolkit _(`Go`)_
+
 * [abootool](https://github.com/alephsecurity/abootool) - simple tool to dynamically discover hidden fastboot OEM commands based on static knowledge _(`Python`)_
 
 * [mkchromecast](https://github.com/muammar/mkchromecast) - cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices _(`Python`)_
