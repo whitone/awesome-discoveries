@@ -4,8 +4,6 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
-* [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement _(`Go`)_
-
 * [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - a UDP Tunnel which tunnels UDP via FakeTCP/UDP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment).Its Encrpyted,Anti-Replay and Multiplexed.It aslo acts as a Connection Stablizer _(`C++`)_
 
 * [Plumbum](https://github.com/tomerfiliba/plumbum) - shell combinators _(`Python`)_
