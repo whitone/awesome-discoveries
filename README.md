@@ -4,105 +4,57 @@ A curated list of awesome discoveries based on repositories found using [GitHub 
 
 For each elements there's the main programming language used in the project, if applicable.
 
+
+## Contents
+
+- [Networking](#networking)
+- [DevOps Utilities](#devops-utilities)
+- [Bots](#bots)
+- [AWS](#aws)
+- [Shell](#shell)
+- [Libraries](#libraries)
+- [CLI Utilities](#cli-utilities)
+- [Git](#git)
+- [Android Hacking](#android-hacking)
+- [Chromecast](#chromecast)
+- [Containers](#containers)
+- [Machine Learning](#machine-learning)
+- [Python Hacks](#python-hacks)
+- [Games](#games)
+- [Servers](#servers)
+- [Simulators](#simulators)
+- [Graphics](#graphics)
+- [Uncategorized](#uncategorized)
+
+
+## Networking
+
 * [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - a UDP Tunnel which tunnels UDP via FakeTCP/UDP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment).Its Encrpyted,Anti-Replay and Multiplexed.It aslo acts as a Connection Stablizer _(`C++`)_
-
-* [Plumbum](https://github.com/tomerfiliba/plumbum) - shell combinators _(`Python`)_
-
-* [poormanscdn](https://github.com/alexandres/poormanscdn) - a caching proxy to Amazon S3 _(`Go`)_
-
-* [Go Graphics](https://github.com/fogleman/gg) - 2D rendering in Go with a simple API _(`Go`)_
-
-* [go-prompt](https://github.com/c-bata/go-prompt) - building a powerful interactive prompt in Go, inspired by python-prompt-toolkit _(`Go`)_
-
-* [abootool](https://github.com/alephsecurity/abootool) - simple tool to dynamically discover hidden fastboot OEM commands based on static knowledge _(`Python`)_
-
-* [mkchromecast](https://github.com/muammar/mkchromecast) - cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices _(`Python`)_
-
-* [Zeus](https://github.com/DenizParlak/Zeus) - AWS auditing and hardening tool _(`Shell`)_
-
-* [aws-sam-local](https://github.com/awslabs/aws-sam-local) - AWS SAM Local is a CLI tool for local development and testing of Serverless applications _(`Go`)_
-
-* [gtop](https://github.com/aksakalli/gtop) - system monitoring dashboard for terminal _(`JavaScript`)_
-
-* [mailit](https://github.com/dthree/mailit) - a tiny drop-in REST API to send emails _(`JavaScript`)_
 
 * [autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - automated WebSocket & WAMP protocol Testsuite _(`Python`)_
 
-* [colorls](https://github.com/athityakumar/colorls) - a Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons _(`Ruby`)_
-
 * [ssl_logger](https://github.com/google/ssl_logger) - decrypts and logs a process's SSL traffic _(`Python`)_
 
-* [chart](https://github.com/marianogappa/chart) - quick & smart charting for STDIN _(`Go`)_
-
-* [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - a collection of small bash scripts for heavy terminal users _(`Shell`)_
-
-* [VirtualAPK](https://github.com/didi/VirtualAPK) - a powerful and lightweight plugin framework for Android _(`Java`)_
-
-* [DockerSlim](https://github.com/docker-slim/docker-slim) -  optimize and secure your Docker containers _(`Go`)_
-
-* [prest](https://github.com/prest/prest) - a fully RESTful API from any existing PostgreSQL database _(`Go`)_
-
-* [termplay](https://github.com/legolord208/termplay) - play image/video in your terminal _(`Rust`)_
-
-* [yotaq](https://github.com/JoseTomasTocino/yotaq) - Your Own Task Queue for Python _(`Python`)_
-
-* [APKUpdater](https://github.com/rumboalla/apkupdater) -  a tool that simplifies the process of finding updates for your installed apps _(`Java`)_
-
-* [simple-httpd](https://github.com/briandowns/simple-httpd) - a replacement for Python SimpleHTTPServer and optionally provides automatic TLS via Let's Encrypt over HTTP2 or generated self-signed certificates _(`Go`)_
-
-* [sudo](https://github.com/mattn/sudo) - sudo for windows _(`Go`)_
-
-* [bingrep](https://github.com/m4b/bingrep) - like grep, but for binaries _(`Rust`)_
-
-* [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - essential Cheat Sheets for deep learning and machine learning researchers
-
-* [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 _(`CSS`)_
-
-* [welder](https://github.com/pch/welder) - set up your Linux server with plain shell scripts _(`Bash`)_
-
-* [gocker](https://github.com/ilourt/gocker) - a starter project using docker and golang _(`Go`)_
-
-* [duplicacy](https://github.com/gilbertchen/duplicacy) - a new generation cloud backup tool _(`Go`)_
-
-* [distroless](https://github.com/GoogleCloudPlatform/distroless) - "Distroless" Docker Images that contain only your application and its runtime dependencies _(`Python`)_
-
-* [bashy](https://github.com/pablopunk/bashy) - extremely fast and simple git prompt for bash _(`Bash`)_
-
-* [req](https://github.com/imroc/req) - a golang http request library for human _(`Go`)_
-
-* [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability _(`Perl`)_
-
-* [complete](https://github.com/posener/complete) - a tool for bash writing bash completion _(`Go`)_
-
-* [tbot](https://github.com/yanzay/tbot) - Telegram Bot Server _(`Go`)_
-
 * [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - count the number of people around you by monitoring wifi signals _(`Python`)_
-
-* [fsql](https://github.com/kshvmdn/fsql) - search through your filesystem with SQL-esque queries _(`Go`)_
-
-* [ShellCheck](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts _(`Haskell`)_
-
-* [direnv](https://github.com/direnv/direnv) - unclutter your .profile _(`Go`)_
 
 * [rdrp](https://github.com/kshvmdn/rdrp) - a cross-platform command line tool for sending and receiving files over your local network, inspired by AirDrop _(`Go`)_
 
 * [dt](https://github.com/42wim/dt) - DNS tool that displays information about your domain _(`Go`)_
 
-* [config](https://github.com/joshbetz/config) - a small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP _(`Go`)_
+* [transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line _(`Go`)_
 
-* [Box](https://github.com/cdgriffith/Box) - Python dictionaries with recursive dot notation access _(`Python`)_
+* [Comcast](https://github.com/tylertreat/Comcast) - simulate common network problems like latency, bandwidth restrictions, and dropped/reordered/corrupted packets _(`Go`)_
 
-* [Moby](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems _(`Go`)_
 
-* [Maintainer](https://github.com/gaocegege/maintainer) - generate AUTHORS, CONTRIBUTING, and CHANGELOG for your GitHub repository _(`Go`)_
+## DevOps Utilities
 
-* [Typefont](https://github.com/Sirvasile/Typefont) - an algorithm written entirely in JavaScript that recognises the font of a text in a image using the Tesseract optical character recognition engine and some image processing libraries _(`JavaScript`)_
+* [welder](https://github.com/pch/welder) - set up your Linux server with plain shell scripts _(`Bash`)_
+
+* [duplicacy](https://github.com/gilbertchen/duplicacy) - a new generation cloud backup tool _(`Go`)_
+
+* [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability _(`Perl`)_
 
 * [vps-comparison](https://github.com/joedicastro/vps-comparison) - a comparison between some VPS providers, it uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify _(`Python`)_
-
-* [rufus](https://github.com/pbatard/rufus) - the Reliable USB Formatting Utility _(`C`)_
-
-* [py-backwards](https://github.com/nvbn/py-backwards) - python to python compiler that allows you to use Python 3.6 features in older versions _(`Python`)_
 
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices) - a curated list of Microservice Architecture related principles and technologies
 
@@ -112,79 +64,91 @@ For each elements there's the main programming language used in the project, if 
 
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) - a list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-* [transfer.sh](https://github.com/dutchcoders/transfer.sh) - easy and fast file sharing from the command-line _(`Go`)_
-
-* [postal](https://github.com/atech/postal) - a fully featured open source mail delivery platform for incoming & outgoing e-mail _(`Ruby`)_
-
-* [Clight](https://github.com/FedeDP/Clight) - a daemon that turns your webcam into a light sensor: it will adjust screen backlight based on ambient brightness _(`C`)_
-
-* [asdf](https://github.com/asdf-vm/asdf) - extendable version manager _(`Shell`)_
-
-* [OpenLara](https://github.com/XProger/OpenLara) - classic Tomb Raider open-source engine _(`C`)_
-
-* [timy](https://github.com/ramonsaraiva/timy) - minimalist measurement of python code time _(`Python`)_
-
-* [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites _(`Go`)_
-
-* [periph](https://github.com/google/periph) - peripherals I/O in Go _(`Go`)_
-
-* [slit](https://github.com/tigrawap/slit) - a modern PAGER for viewing logs, get more than most in less time _(`Go`)_
-
-* [LCUI](https://github.com/lc-soft/LCUI) - a simple GUI library, it is written in C, support XML and CSS _(`C`)_
-
-* [Hoverfly](https://github.com/SpectoLabs/hoverfly) - a lightweight, open source API simulation tool _(`Go`)_
-
 * [Fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul _(`Go`)_
-
-* [bd](https://github.com/vigneshwaranr/bd) - quickly go back to a parent directory _(`Bash`)_
-
-* [Kim](https://github.com/mikeywaites/kim) - a JSON Serialization and Marshaling framework _(`Python`)_
-
-* [Simple Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-
-* [Neofetch](https://github.com/dylanaraps/neofetch) - a CLI system information tool _(`Bash`)_
-
-* [git-recent](https://github.com/paulirish/git-recent) - see your latest local git branches _(`Bash`)_
-
-* [mimipenguin](https://github.com/huntergregal/mimipenguin) - a tool to dump the login password from the current linux user _(`Bash`)_
-
-* [c2go.py](https://github.com/elliotchance/c2go) - a tool for converting C to Go _(`Python`)_
 
 * [Goss](https://github.com/aelsabbahy/goss) - quick and easy server validation _(`Go`)_
 
-* [Face Recognition](https://github.com/ageitgey/face_recognition) - the world's simplest facial recognition api for Python and the command line _(`Python`)_
+* [gobetween](https://github.com/yyyar/gobetween) - modern & minimalistic load balancer and reverse-proxy for the Cloud era _(`Go`)_
 
-* [bumpversion](https://github.com/peritus/bumpversion) - version-bump your software with a single command _(`Python`)_
+* [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - setup your own secure VPN server in just a few minutes _(`Bash`)_
 
-* [YAPF](https://github.com/google/yapf) - a formatter for Python files _(`Python`)_
+* [Public APIs](https://github.com/toddmotto/public-apis) - a collective list of free JSON APIs for use in web development
 
-* [Naked Tensor](https://github.com/jostmey/NakedTensor) - bare bone examples of machine learning in TensorFlow _(`Python`)_
+* [Packer](https://github.com/hashicorp/packer) - a tool for building identical machine images for multiple platforms from a single source configuration _(`Go`)_
 
-* [FaaS](https://github.com/alexellis/faas) - functions as a Service on Docker Swarm _(`Bash`)_
+* [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - a practical guide to securing macOS
 
-* [goggles](https://github.com/KyleBanks/goggles) - a GUI for your $GOPATH _(`Go`)_
+* [climate](https://github.com/adtac/climate) - a huge number of tools for developers to automate Linux system _(`Bash`)__
 
-* [android-go](https://github.com/xlab/android-go) - a platform for writing native Android apps in Go _(`Go`)_
+* [GoAccess](https://github.com/allinurl/goaccess) - a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser _(`C`)_
+
+* [status.sh](https://github.com/Cyclenerd/static_status) - simple Bash script to generate a static status page _(`Bash`)_
+
+
+## Bots
+
+* [tbot](https://github.com/yanzay/tbot) - Telegram Bot Server _(`Go`)_
+
+
+## AWS
+
+* [poormanscdn](https://github.com/alexandres/poormanscdn) - a caching proxy to Amazon S3 _(`Go`)_
+
+* [Zeus](https://github.com/DenizParlak/Zeus) - AWS auditing and hardening tool _(`Shell`)_
+
+* [aws-sam-local](https://github.com/awslabs/aws-sam-local) - AWS SAM Local is a CLI tool for local development and testing of Serverless applications _(`Go`)_
+
+* [LocalStack](https://github.com/localstack/localstack) - a fully functional local AWS cloud stack _(`Python`)_
+
+
+## Shell
+
+* [Plumbum](https://github.com/tomerfiliba/plumbum) - shell combinators _(`Python`)_
+
+* [colorls](https://github.com/athityakumar/colorls) - a Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons _(`Ruby`)_
+
+* [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - a collection of small bash scripts for heavy terminal users _(`Shell`)_
+
+* [complete](https://github.com/posener/complete) - a tool for bash writing bash completion _(`Go`)_
+
+* [ShellCheck](https://github.com/koalaman/shellcheck) - a static analysis tool for shell scripts _(`Haskell`)_
+
+* [direnv](https://github.com/direnv/direnv) - unclutter your .profile _(`Go`)_
+
+* [bd](https://github.com/vigneshwaranr/bd) - quickly go back to a parent directory _(`Bash`)_
+
+* [Goto](https://github.com/Fakerr/goto) - fast command line navigation _(`Go`)_
+
+
+## Libraries
+
+* [Go Graphics](https://github.com/fogleman/gg) - 2D rendering in Go with a simple API _(`Go`)_
+
+* [prest](https://github.com/prest/prest) - a fully RESTful API from any existing PostgreSQL database _(`Go`)_
+
+* [yotaq](https://github.com/JoseTomasTocino/yotaq) - Your Own Task Queue for Python _(`Python`)_
+
+* [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 _(`CSS`)_
+
+* [req](https://github.com/imroc/req) - a golang http request library for human _(`Go`)_
+
+* [config](https://github.com/joshbetz/config) - a small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP _(`Go`)_
+
+* [Box](https://github.com/cdgriffith/Box) - Python dictionaries with recursive dot notation access _(`Python`)_
+
+* [periph](https://github.com/google/periph) - peripherals I/O in Go _(`Go`)_
+
+* [LCUI](https://github.com/lc-soft/LCUI) - a simple GUI library, it is written in C, support XML and CSS _(`C`)_
+
+* [Kim](https://github.com/mikeywaites/kim) - a JSON Serialization and Marshaling framework _(`Python`)_
 
 * [CommonRegex](https://github.com/madisonmay/CommonRegex) - a collection of common regular expressions bundled with an easy to use interface _(`Python`)_
 
 * [commonregex](https://github.com/mingrammer/commonregex) - a collection of common regular expressions for Go _(`Go`)_
 
-* [LocalStack](https://github.com/localstack/localstack) - a fully functional local AWS cloud stack _(`Python`)_
-
-* [machma](https://github.com/fd0/machma) - easy parallel execution of commands with live feedback _(`Go`)_
-
-* [Public APIs](https://github.com/toddmotto/public-apis) - a collective list of free JSON APIs for use in web development
-
-* [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - cheatsheet about tips and tricks for Android Development
+* [android-go](https://github.com/xlab/android-go) - a platform for writing native Android apps in Go _(`Go`)_
 
 * [Vue.js](https://github.com/vuejs/vue) - a progressive, incrementally-adoptable framework for building UI on the web _(`JavaScript`)_
-
-* [python-for-android](https://github.com/kivy/python-for-android) - a packager for Python apps on Android _(`Python`)_
-
-* [drive](https://github.com/odeke-em/drive) - a tiny program to pull or push Google Drive files _(`Go`)_
-
-* [immortal](https://github.com/immortal/immortal) - a *nix cross-platform (OS agnostic) supervisor _(`Go`)_
 
 * [FlatBuffers](https://github.com/google/flatbuffers) - an efficient cross platform serialization library for games and other memory constrained apps _(`C` `C#` `C++` `Go`  `Java` `JavaScript` `PHP` `Python`)_
 
@@ -192,39 +156,162 @@ For each elements there's the main programming language used in the project, if 
 
 * [Hermes](https://github.com/matcornic/hermes) - generates clean, responsive HTML e-mails for sending transactional mail _(`Go`)_
 
-* [Task](https://github.com/go-task/task) - simple task runner / Make alternative _(`Go`)_
+* [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - a unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers _(`Python`)_
 
-* [Packer](https://github.com/hashicorp/packer) - a tool for building identical machine images for multiple platforms from a single source configuration _(`Go`)_
+
+## CLI Utilities
+
+* [go-prompt](https://github.com/c-bata/go-prompt) - building a powerful interactive prompt in Go, inspired by python-prompt-toolkit _(`Go`)_
+
+* [gtop](https://github.com/aksakalli/gtop) - system monitoring dashboard for terminal _(`JavaScript`)_
+
+* [mailit](https://github.com/dthree/mailit) - a tiny drop-in REST API to send emails _(`JavaScript`)_
+
+* [chart](https://github.com/marianogappa/chart) - quick & smart charting for STDIN _(`Go`)_
+
+* [termplay](https://github.com/legolord208/termplay) - play image/video in your terminal _(`Rust`)_
+
+* [sudo](https://github.com/mattn/sudo) - sudo for windows _(`Go`)_
+
+* [bingrep](https://github.com/m4b/bingrep) - like grep, but for binaries _(`Rust`)_
+
+* [fsql](https://github.com/kshvmdn/fsql) - search through your filesystem with SQL-esque queries _(`Go`)_
+
+* [slit](https://github.com/tigrawap/slit) - a modern PAGER for viewing logs, get more than most in less time _(`Go`)_
+
+* [Neofetch](https://github.com/dylanaraps/neofetch) - a CLI system information tool _(`Bash`)_
+
+* [drive](https://github.com/odeke-em/drive) - a tiny program to pull or push Google Drive files _(`Go`)_
 
 * [gkill](https://github.com/heppu/gkill) - interactive process killer for Linux and macOS _(`Go`)_
 
-* [Goto](https://github.com/Fakerr/goto) - fast command line navigation _(`Go`)_
+* [machma](https://github.com/fd0/machma) - easy parallel execution of commands with live feedback _(`Go`)_
 
-* [gobetween](https://github.com/yyyar/gobetween) - modern & minimalistic load balancer and reverse-proxy for the Cloud era _(`Go`)_
+* [immortal](https://github.com/immortal/immortal) - a *nix cross-platform (OS agnostic) supervisor _(`Go`)_
 
-* [Sonnet](https://github.com/deepmind/sonnet) - a library built on top of TensorFlow for building complex neural networks _(`Python`)_
+* [Task](https://github.com/go-task/task) - simple task runner / Make alternative _(`Go`)_
 
-* [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - a practical guide to securing macOS
 
-* [climate](https://github.com/adtac/climate) - a huge number of tools for developers to automate Linux system _(`Bash`)_
+## Git and VCS
 
-* [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON _(`NodeJS`)_
+* [bashy](https://github.com/pablopunk/bashy) - extremely fast and simple git prompt for bash _(`Bash`)_
 
-* [GoAccess](https://github.com/allinurl/goaccess) - a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser _(`C`)_
+* [Maintainer](https://github.com/gaocegege/maintainer) - generate AUTHORS, CONTRIBUTING, and CHANGELOG for your GitHub repository _(`Go`)_
+
+* [git-recent](https://github.com/paulirish/git-recent) - see your latest local git branches _(`Bash`)_
+
+* [bumpversion](https://github.com/peritus/bumpversion) - version-bump your software with a single command _(`Python`)_
 
 * [git-of-theseus](https://github.com/erikbern/git-of-theseus) - analyze how a Git repo grows over time _(`Python`)_
 
-* [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - setup your own secure VPN server in just a few minutes _(`Bash`)_
-
 * [gitquery](https://github.com/sqle/gitquery) - SQL interface to Git repositories _(`Go`)_
-
-* [status.sh](https://github.com/Cyclenerd/static_status) - simple Bash script to generate a static status page _(`Bash`)_
 
 * [git-secrets](https://github.com/awslabs/git-secrets) - prevents you from committing passwords and other sensitive information to a git repository _(`Bash`)_
 
-* [WinFsp](https://github.com/billziss-gh/winfsp) - similar to FUSE, but for Windows _(`C`)_
+* [asdf](https://github.com/asdf-vm/asdf) - extendable version manager _(`Shell`)_
+
+
+## Android Hacking
+
+* [abootool](https://github.com/alephsecurity/abootool) - simple tool to dynamically discover hidden fastboot OEM commands based on static knowledge _(`Python`)_
+
+* [VirtualAPK](https://github.com/didi/VirtualAPK) - a powerful and lightweight plugin framework for Android _(`Java`)_
+
+* [APKUpdater](https://github.com/rumboalla/apkupdater) -  a tool that simplifies the process of finding updates for your installed apps _(`Java`)_
+
+* [python-for-android](https://github.com/kivy/python-for-android) - a packager for Python apps on Android _(`Python`)_
+
+* [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - cheatsheet about tips and tricks for Android Development
+
+
+## Cromecast
+
+* [mkchromecast](https://github.com/muammar/mkchromecast) - cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices _(`Python`)_
+
+
+## Containers
+
+* [DockerSlim](https://github.com/docker-slim/docker-slim) -  optimize and secure your Docker containers _(`Go`)_
+
+* [gocker](https://github.com/ilourt/gocker) - a starter project using docker and golang _(`Go`)_
+
+* [distroless](https://github.com/GoogleCloudPlatform/distroless) - "Distroless" Docker Images that contain only your application and its runtime dependencies _(`Python`)_
+
+* [Moby](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems _(`Go`)_
+
+* [FaaS](https://github.com/alexellis/faas) - functions as a Service on Docker Swarm _(`Bash`)_
+
+
+## Machine Learning
+
+* [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - essential Cheat Sheets for deep learning and machine learning researchers
+
+* [Typefont](https://github.com/Sirvasile/Typefont) - an algorithm written entirely in JavaScript that recognises the font of a text in a image using the Tesseract optical character recognition engine and some image processing libraries _(`JavaScript`)_
+
+* [Face Recognition](https://github.com/ageitgey/face_recognition) - the world's simplest facial recognition api for Python and the command line _(`Python`)_
+
+* [Naked Tensor](https://github.com/jostmey/NakedTensor) - bare bone examples of machine learning in TensorFlow _(`Python`)_
+
+* [Sonnet](https://github.com/deepmind/sonnet) - a library built on top of TensorFlow for building complex neural networks _(`Python`)_
+
+
+## Python Hacks
+
+* [py-backwards](https://github.com/nvbn/py-backwards) - python to python compiler that allows you to use Python 3.6 features in older versions _(`Python`)_
+
+* [timy](https://github.com/ramonsaraiva/timy) - minimalist measurement of python code time _(`Python`)_
+
+* [YAPF](https://github.com/google/yapf) - a formatter for Python files _(`Python`)_
+
+* [c2go.py](https://github.com/elliotchance/c2go) - a tool for converting C to Go _(`Python`)_
+
+* [MicroPython](https://github.com/micropython/micropython) - a lean and efficient Python implementation for microcontrollers and constrained systems _(`C` `Python`)_
+
+* [Pipfile](https://github.com/pypa/pipfile) - instead of requirements.txt _(`Python`)_
+
+
+## Games
+
+* [OpenLara](https://github.com/XProger/OpenLara) - classic Tomb Raider open-source engine _(`C`)_
+
+
+## Servers
+
+* [simple-httpd](https://github.com/briandowns/simple-httpd) - a replacement for Python SimpleHTTPServer and optionally provides automatic TLS via Let's Encrypt over HTTP2 or generated self-signed certificates _(`Go`)_
+
+* [postal](https://github.com/atech/postal) - a fully featured open source mail delivery platform for incoming & outgoing e-mail _(`Ruby`)_
+
+* [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites _(`Go`)_
 
 * [H2O](https://github.com/h2o/h2o) - an optimized HTTP server with support for HTTP/1.x and HTTP/2 _(`C`)_
+
+
+## Simulators
+
+* [Hoverfly](https://github.com/SpectoLabs/hoverfly) - a lightweight, open source API simulation tool _(`Go`)_
+
+
+## Graphics
+
+* [Simple Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+
+
+## Dev Tools with GUI
+
+* [goggles](https://github.com/KyleBanks/goggles) - a GUI for your $GOPATH _(`Go`)_
+
+* [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON _(`NodeJS`)
+
+
+## Uncategorized
+
+* [rufus](https://github.com/pbatard/rufus) - the Reliable USB Formatting Utility _(`C`)_
+
+* [Clight](https://github.com/FedeDP/Clight) - a daemon that turns your webcam into a light sensor: it will adjust screen backlight based on ambient brightness _(`C`)_
+
+* [mimipenguin](https://github.com/huntergregal/mimipenguin) - a tool to dump the login password from the current linux user _(`Bash`)_
+
+* [WinFsp](https://github.com/billziss-gh/winfsp) - similar to FUSE, but for Windows _(`C`)_
 
 * [Delegator.py](https://github.com/kennethreitz/delegator.py) - subprocesses for Humans 2.0 _(`Python`)_
 
@@ -234,15 +321,11 @@ For each elements there's the main programming language used in the project, if 
 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - a code-completion engine for Vim _(`Python`)_
 
-* [Comcast](https://github.com/tylertreat/Comcast) - simulate common network problems like latency, bandwidth restrictions, and dropped/reordered/corrupted packets _(`Go`)_
-
-* [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - a unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers _(`Python`)_
 
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) - a simple and efficient way to access various statistics in git repository _(`Bash`)_
 
 * [Hellogopher](https://github.com/cloudflare/hellogopher) - Makefile for Go projects _(`Makefile`)_
 
-* [Pipfile](https://github.com/pypa/pipfile) - instead of requirements.txt _(`Python`)_
 
 * [pipenv](https://github.com/kennethreitz/pipenv) - automatic manager for Pipfile and virtualenv _(`Python`)_
 
@@ -352,7 +435,6 @@ For each elements there's the main programming language used in the project, if 
 
 * [FDUPES](https://github.com/adrianlopezroche/fdupes) - a program for identifying duplicate files residing within specified directories _(`C`)_
 
-* [MicroPython](https://github.com/micropython/micropython) - a lean and efficient Python implementation for microcontrollers and constrained systems _(`C` `Python`)_
 
 * [binstale](https://github.com/shurcooL/binstale) - tells you whether the binaries in your GOPATH/bin are stale or up to date _(`Go`)_
 
