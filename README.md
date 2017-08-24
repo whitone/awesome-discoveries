@@ -45,6 +45,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [Comcast](https://github.com/tylertreat/Comcast) - simulate common network problems like latency, bandwidth restrictions, and dropped/reordered/corrupted packets _(`Go`)_
 
+* [wuzz](https://github.com/asciimoo/wuzz) - interactive cli tool for HTTP inspection _(`Go`)_
+
 
 ## DevOps Utilities
 
@@ -83,6 +85,16 @@ For each elements there's the main programming language used in the project, if 
 * [GoAccess](https://github.com/allinurl/goaccess) - a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser _(`C`)_
 
 * [status.sh](https://github.com/Cyclenerd/static_status) - simple Bash script to generate a static status page _(`Bash`)_
+
+* [mimipenguin](https://github.com/huntergregal/mimipenguin) - a tool to dump the login password from the current linux user _(`Bash`)_
+
+* [autovpn](https://github.com/adtac/autovpn) - connect to random VPN servers from vpngate.net in a selected country
+
+* [checkmail](https://github.com/badoux/checkmail) - email validator _(`Go`)_
+
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest) - a collection of awesome penetration testing resources
+
+* [takeover.sh](https://github.com/marcan/takeover.sh) - wipe and reinstall a running Linux system via SSH without rebooting _(`Shell`)_
 
 
 ## Bots
@@ -158,6 +170,22 @@ For each elements there's the main programming language used in the project, if 
 
 * [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - a unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers _(`Python`)_
 
+* [Delegator.py](https://github.com/kennethreitz/delegator.py) - subprocesses for Humans 2.0 _(`Python`)_
+
+* [Hellogopher](https://github.com/cloudflare/hellogopher) - Makefile for Go projects _(`Makefile`)_
+
+* [dupl](https://github.com/mibk/dupl) - find duplicate piece of core in Go project _(`Go`)_
+
+* [elastic](https://github.com/olivere/elastic) - Elasticsearch client _(`Go`)_
+
+* [aurora](https://github.com/logrusorgru/aurora) - library to add colors to cli tools _(`Go`)_
+
+* [q](https://github.com/y0ssar1an/q) - simply debug print _(`Go`)_
+
+* [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - a curated list of awesome Go storage projects and libraries _(`Go`)_
+
+* [Dep](https://github.com/golang/dep) - a prototype dependency management tool _(`Go`)_
+
 
 ## CLI Utilities
 
@@ -191,6 +219,10 @@ For each elements there's the main programming language used in the project, if 
 
 * [Task](https://github.com/go-task/task) - simple task runner / Make alternative _(`Go`)_
 
+* [buse-go](https://github.com/samalba/buse-go) - Linux block device in user space _(`Go`)_
+
+* [PIXterm](https://github.com/eliukblau/pixterm) - draw images in your ANSI terminal with true color _(`Go`)_
+
 
 ## Git and VCS
 
@@ -209,6 +241,10 @@ For each elements there's the main programming language used in the project, if 
 * [git-secrets](https://github.com/awslabs/git-secrets) - prevents you from committing passwords and other sensitive information to a git repository _(`Bash`)_
 
 * [asdf](https://github.com/asdf-vm/asdf) - extendable version manager _(`Shell`)_
+
+* [git-quick-stats](https://github.com/arzzen/git-quick-stats) - a simple and efficient way to access various statistics in git repository _(`Bash`)_
+
+* [git-recall](https://github.com/Fakerr/git-recall) - a git-log with ncurses _(`NodeJS`)_
 
 
 ## Android Hacking
@@ -269,6 +305,10 @@ For each elements there's the main programming language used in the project, if 
 
 * [Pipfile](https://github.com/pypa/pipfile) - instead of requirements.txt _(`Python`)_
 
+* [pipenv](https://github.com/kennethreitz/pipenv) - automatic manager for Pipfile and virtualenv _(`Python`)_
+
+* [rePy2exe](https://github.com/4w4k3/rePy2exe) - reverse engineering tool for py2exe applications _(`Python`)_
+
 
 ## Games
 
@@ -303,63 +343,30 @@ For each elements there's the main programming language used in the project, if 
 * [JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON _(`NodeJS`)
 
 
-## Uncategorized
+## System Tools without CLI
 
 * [rufus](https://github.com/pbatard/rufus) - the Reliable USB Formatting Utility _(`C`)_
 
 * [Clight](https://github.com/FedeDP/Clight) - a daemon that turns your webcam into a light sensor: it will adjust screen backlight based on ambient brightness _(`C`)_
 
-* [mimipenguin](https://github.com/huntergregal/mimipenguin) - a tool to dump the login password from the current linux user _(`Bash`)_
-
 * [WinFsp](https://github.com/billziss-gh/winfsp) - similar to FUSE, but for Windows _(`C`)_
 
-* [Delegator.py](https://github.com/kennethreitz/delegator.py) - subprocesses for Humans 2.0 _(`Python`)_
+
+## macOS
 
 * [itermplot](https://github.com/daleroberts/itermplot) - an awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal _(`Python`)_
 
-* [rePy2exe](https://github.com/4w4k3/rePy2exe) - reverse engineering tool for py2exe applications _(`Python`)_
+* [macpack](https://github.com/murlokswarm/macpack) - program to package MacOS applications _(`Go`)_
+
+
+## Vim
 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - a code-completion engine for Vim _(`Python`)_
 
 
-* [git-quick-stats](https://github.com/arzzen/git-quick-stats) - a simple and efficient way to access various statistics in git repository _(`Bash`)_
-
-* [Hellogopher](https://github.com/cloudflare/hellogopher) - Makefile for Go projects _(`Makefile`)_
-
-
-* [pipenv](https://github.com/kennethreitz/pipenv) - automatic manager for Pipfile and virtualenv _(`Python`)_
-
-* [buse-go](https://github.com/samalba/buse-go) - Linux block device in user space _(`Go`)_
-
-* [dupl](https://github.com/mibk/dupl) - find duplicate piece of core in Go project _(`Go`)_
-
-* [elastic](https://github.com/olivere/elastic) - Elasticsearch client _(`Go`)_
-
-* [aurora](https://github.com/logrusorgru/aurora) - library to add colors to cli tools _(`Go`)_
-
-* [q](https://github.com/y0ssar1an/q) - simply debug print _(`Go`)_
-
-* [autovpn](https://github.com/adtac/autovpn) - connect to random VPN servers from vpngate.net in a selected country
-
-* [git-recall](https://github.com/Fakerr/git-recall) - a git-log with ncurses _(`NodeJS`)_
-
-* [macpack](https://github.com/murlokswarm/macpack) - program to package MacOS applications _(`Go`)_
-
-* [checkmail](https://github.com/badoux/checkmail) - email validator _(`Go`)_
-
-* [wuzz](https://github.com/asciimoo/wuzz) - interactive cli tool for HTTP inspection _(`Go`)_
-
-* [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - a curated list of awesome Go storage projects and libraries _(`Go`)_
-
-* [awesome-pentest](https://github.com/enaqx/awesome-pentest) - a collection of awesome penetration testing resources
+## Uncategorized
 
 * [business-card](https://github.com/opieters/business-card) - a business card in LaTeX _(`LaTeX`)_
-
-* [takeover.sh](https://github.com/marcan/takeover.sh) - wipe and reinstall a running Linux system via SSH without rebooting _(`Shell`)_
-
-* [PIXterm](https://github.com/eliukblau/pixterm) - draw images in your ANSI terminal with true color _(`Go`)_
-
-* [Dep](https://github.com/golang/dep) - a prototype dependency management tool _(`Go`)_
 
 * [Japronto!](https://github.com/squeaky-pl/japronto) - a screaming-fast Python 3.5+ HTTP toolkit with pipelining HTTP server _(`Python`)_
 
@@ -434,7 +441,6 @@ For each elements there's the main programming language used in the project, if 
 * [Black Magic Probe](https://github.com/blacksphere/blackmagic) - a modern in-application debugging tool for embedded microprocessors _(`C`)_
 
 * [FDUPES](https://github.com/adrianlopezroche/fdupes) - a program for identifying duplicate files residing within specified directories _(`C`)_
-
 
 * [binstale](https://github.com/shurcooL/binstale) - tells you whether the binaries in your GOPATH/bin are stale or up to date _(`Go`)_
 
