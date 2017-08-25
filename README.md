@@ -63,6 +63,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [frp](https://github.com/fatedier/frp) - a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet _(`Go`)_
 
+* [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple _(`Python`)_
+
 
 ## DevOps Utilities
 
@@ -156,6 +158,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [checkup](https://github.com/sourcegraph/checkup) - distributed, lock-free, self-hosted health checks and status pages _(`Go`)_
 
+* [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - this is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers _(`JavaScript`)_
+
 
 ## Bots
 
@@ -202,6 +206,8 @@ For each elements there's the main programming language used in the project, if 
 * [Thirsty](https://github.com/kalbhor/thirsty) - shell prompt reminds to drink water _(`Shell`)_
 
 * [Alacritty](https://github.com/jwilm/alacritty) - a cross-platform, GPU-accelerated terminal emulator _(`Rust`)_
+
+* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! _(`C#`)_
 
 
 ## Libraries
@@ -306,6 +312,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS _(`CSS`)_
 
+* [noti](https://github.com/variadico/noti) - trigger notifications when a process completes _(`Go`)_
+
 
 ## CLI Utilities
 
@@ -382,6 +390,8 @@ For each elements there's the main programming language used in the project, if 
 * [pget](https://github.com/Code-Hex/pget) - parallel file download client _(`Go`)_
 
 * [micro](https://github.com/zyedidia/micro) - a modern and intuitive terminal-based text editor _(`Go`)_
+
+* [cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line _(`Python`)_
 
 
 ## Git and Version Control Systems
@@ -557,6 +567,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [qutebrowser](https://github.com/qutebrowser/qutebrowser) - a keyboard-driven, vim-like browser based on PyQt5 _(`Python`)_
 
+* [marp](https://github.com/yhatt/marp) - Markdown presentation writer, powered by Electron _(`CoffeeScript`)_
+
 
 ## macOS
 
@@ -607,8 +619,6 @@ For each elements there's the main programming language used in the project, if 
 
 * [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheatsheet _(`Python`)_
 
-* [marp](https://github.com/yhatt/marp) - Markdown presentation writer, powered by Electron _(`CoffeeScript`)_
-
 * [cleave.js](https://github.com/nosir/cleave.js) - format input text content when you are typing _(`JavaScript`)_
 
 * [awesome-java](https://github.com/akullpp/awesome-java) - a curated list of awesome Java frameworks, libraries and software
@@ -616,8 +626,6 @@ For each elements there's the main programming language used in the project, if 
 * [Awesome Hyper](https://github.com/bnb/awesome-hyper) - a curated list of sweet Hyper packages, themes, and resources
 
 * [bpkg](https://github.com/bpkg/bpkg) - lightweight bash package manager _(`Shell`)_
-
-* [cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line _(`Python`)_
 
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - a golang ebook intro how to build a web with golang
 
@@ -627,15 +635,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [doc2text](https://github.com/jlsutherland/doc2text) - detect text blocks and OCR poorly scanned PDFs in bulk _(`Python`)_
 
-* [noti](https://github.com/variadico/noti) - trigger notifications when a process completes _(`Go`)_
-
-* [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple _(`Python`)_
-
 * [with](https://github.com/mchav/with) - command prefixing for continuous workflow using a single tool _(`Bash`)_
-
-* [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - this is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers _(`JavaScript`)_
-
-* [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! _(`C#`)_
 
 * [libraries](https://github.com/gozfree/libraries) - lightweight libraries, wrapper and extension of POSIX _(`C`)_
 
