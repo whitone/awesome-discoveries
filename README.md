@@ -10,7 +10,7 @@ For each elements there's the main programming language used in the project, if 
 - [Networking](#networking)
 - [DevOps Utilities](#devops-utilities)
 - [Bots](#bots)
-- [AWS](#aws)
+- [Amazon Web Services](#amazon-web-services)
 - [Shell](#shell)
 - [Libraries](#libraries)
 - [CLI Utilities](#cli-utilities)
@@ -55,6 +55,14 @@ For each elements there's the main programming language used in the project, if 
 
 * [KickThemOut](https://github.com/k4m4/kickthemout) - kick devices off your network by performing an ARP Spoof attack _(`Python`)_
 
+* [dripcap](https://github.com/dripcap/dripcap) - caffeinated packet analyzer _(`JavaScript`)_
+
+* [wifi-password](https://github.com/rauchg/wifi-password) - get the password of the wifi you're on _(`Bash`)_
+
+* [piknik](https://github.com/jedisct1/piknik) - copy/paste anything over the network _(`Go`)_
+
+* [frp](https://github.com/fatedier/frp) - a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet _(`Go`)_
+
 
 ## DevOps Utilities
 
@@ -85,8 +93,6 @@ For each elements there's the main programming language used in the project, if 
 * [Public APIs](https://github.com/toddmotto/public-apis) - a collective list of free JSON APIs for use in web development
 
 * [Packer](https://github.com/hashicorp/packer) - a tool for building identical machine images for multiple platforms from a single source configuration _(`Go`)_
-
-* [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - a practical guide to securing macOS
 
 * [climate](https://github.com/adtac/climate) - a huge number of tools for developers to automate Linux system _(`Bash`)__
 
@@ -132,13 +138,31 @@ For each elements there's the main programming language used in the project, if 
 
 * [HyperMake](https://github.com/evo-cloud/hmake) - a build tool which builds projects without pre-requisites _(`Go`)_
 
+* [teleport](https://github.com/gravitational/teleport) - modern SSH server for clusters and teams _(`Go`)_
+
+* [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - a curated list of awesome JSON datasets that don't require authentication _(`JavaScript`)_
+
+* [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - a collection of awesome web crawler, spider in different languages
+
+* [ttyd](https://github.com/tsl0922/ttyd) - share your terminal over the web _(`C`)_
+
+* [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) _(`Python`)_
+
+* [orgalorg](https://github.com/reconquest/orgalorg) - parallel SSH commands executioner and file synchronization tool _(`Go`)_
+
+* [BruteXSS](https://github.com/shawarkhanethicalhacker/BruteXSS) - cross-site scripting bruteforcer _(`Python`)_
+
+* [vuls](https://github.com/future-architect/vuls) - vulnerability scanner for Linux/FreeBSD, agentless, written in Go _(`Go`)_
+
+* [checkup](https://github.com/sourcegraph/checkup) - distributed, lock-free, self-hosted health checks and status pages _(`Go`)_
+
 
 ## Bots
 
 * [tbot](https://github.com/yanzay/tbot) - Telegram Bot Server _(`Go`)_
 
 
-## AWS
+## Amazon Web Services
 
 * [poormanscdn](https://github.com/alexandres/poormanscdn) - a caching proxy to Amazon S3 _(`Go`)_
 
@@ -149,6 +173,12 @@ For each elements there's the main programming language used in the project, if 
 * [LocalStack](https://github.com/localstack/localstack) - a fully functional local AWS cloud stack _(`Python`)_
 
 * [awless](https://github.com/wallix/awless) - a fast, powerful and easy-to-use CLI to manage AWS _(`Go`)_
+
+* [lambda-packages](https://github.com/Miserlou/lambda-packages) - various popular python libraries, pre-compiled to be compatible with AWS Lambda _(`Shell`)_
+
+* [og-aws](https://github.com/open-guides/og-aws) - a practical guide to Amazon Web Services _(`Shell`)_
+
+* [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS _(`Python`)_
 
 
 ## Shell
@@ -256,6 +286,26 @@ For each elements there's the main programming language used in the project, if 
 
 * [Mimesis](https://github.com/lk-geimfari/mimesis) - a fast and easy to use Python library for generating dummy data for a variety of purposes _(`Python`)_
 
+* [Gallium](https://github.com/alexflint/gallium) - a library for managing windows, menus, dock icons, and desktop notifications _(`Go`)_
+
+* [watcher](https://github.com/radovskyb/watcher) - a Go package for watching for files or directory changes without using filesystem events _(`Go`)_
+
+* [traces](https://github.com/datascopeanalytics/traces) - a Python library for unevenly-spaced time series analysis _(`Python`)_
+
+* [zap](https://github.com/uber-go/zap) - fast, structured, leveled logging in Go _(`Go`)_
+
+* [hues](https://github.com/prashnts/hues) - colored terminal text made easy for Python and happiness _(`Python`)_
+
+* [barely](https://github.com/reconquest/barely) - simple and extensible status bar to pretty display of Go-lang program's progress _(`Go`)_
+
+* [slate](https://github.com/ianstormtaylor/slate) - a completely customizable framework for building rich text editors. _(`JavaScript`)_
+
+* [Material Kit](https://github.com/creativetimofficial/material-kit) - a free Bootstrap UI Kit with a fresh, new design inspired by Google's material design
+
+* [BlazeCSS](https://github.com/BlazeCSS/Blaze) - open Source modular CSS toolkit utilising BEM conventions to provide great structure for building websites quickly _(`CSS`)_
+
+* [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS _(`CSS`)_
+
 
 ## CLI Utilities
 
@@ -321,8 +371,20 @@ For each elements there's the main programming language used in the project, if 
 
 * [Proctal](https://github.com/daniel-araujo/proctal) - CLI and C library to manipulate the address space of a program on Linux _(`C`)_
 
+* [httpstat](https://github.com/davecheney/httpstat) - like curl -v with colours _(`Go`)_
 
-## Git and VCS
+* [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics _(`C++`)_
+
+* [nativefier](https://github.com/jiahaog/nativefier) - make any web page a desktop application _(`JavaScript`)_
+
+* [gron](https://github.com/tomnomnom/gron) - make JSON greppable! _(`Go`)_
+
+* [pget](https://github.com/Code-Hex/pget) - parallel file download client _(`Go`)_
+
+* [micro](https://github.com/zyedidia/micro) - a modern and intuitive terminal-based text editor _(`Go`)_
+
+
+## Git and Version Control Systems
 
 * [bashy](https://github.com/pablopunk/bashy) - extremely fast and simple git prompt for bash _(`Bash`)_
 
@@ -344,6 +406,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [git-recall](https://github.com/Fakerr/git-recall) - a git-log with ncurses _(`NodeJS`)_
 
+* [gitless](https://github.com/sdg-mit/gitless) - a version control system built on top of Git _(`Python`)_
+
 
 ## Android Hacking
 
@@ -356,6 +420,10 @@ For each elements there's the main programming language used in the project, if 
 * [python-for-android](https://github.com/kivy/python-for-android) - a packager for Python apps on Android _(`Python`)_
 
 * [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - cheatsheet about tips and tricks for Android Development
+
+* [Permissify](https://github.com/holidaycheck/Permissify) - simplifying Android Permissions _(`Java`)_
+
+* [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) - an Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers _(`Java`)_
 
 
 ## Cromecast
@@ -374,6 +442,12 @@ For each elements there's the main programming language used in the project, if 
 * [Moby](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems _(`Go`)_
 
 * [FaaS](https://github.com/alexellis/faas) - functions as a Service on Docker Swarm _(`Bash`)_
+
+* [wait-for-it](https://github.com/vishnubob/wait-for-it) - pure bash script to test and wait on the availability of a TCP host and port _(`Shell`)_
+
+* [dokku](https://github.com/dokku/dokku) - a docker-powered PaaS that helps you build and manage the lifecycle of applications _(`Shell`)_
+
+* [docker-mailserver](https://github.com/tomav/docker-mailserver) - a fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker _(`Shell`)_
 
 
 ## Machine Learning
@@ -413,6 +487,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [Python Fire](https://github.com/google/python-fire) - a library for automatically generating CLIs from absolutely any Python object _(`Python`)_
 
+* [lptrace](https://github.com/khamidou/lptrace) - trace any Python program, anywhere! _(`Python`)_
+
 
 ## Games
 
@@ -433,6 +509,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [Watchserver](https://github.com/lelandbatey/watchserver) - a server that watches a file/folder and notifies clients about changes _(`Go`)_
 
+* [armor](https://github.com/labstack/armor) - uncomplicated, modern HTTP server _(`Go`)_
+
 
 ## Simulators
 
@@ -442,10 +520,18 @@ For each elements there's the main programming language used in the project, if 
 
 * [RobotGo](https://github.com/go-vgo/robotgo) - a cross-platform desktop automation _(`Go`)_
 
+* [GoReplay](https://github.com/buger/goreplay) - an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data _(`Go`)_
+
 
 ## Graphics
 
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+
+* [open-color](https://github.com/yeun/open-color) - color scheme for UI design _(`CSS`)_
+
+* [text-spinners](https://github.com/tawian/text-spinners) - pure text, CSS only, font independent, inline loading indicators _(`CSS`)_
+
+* [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons _(`CSS`)_
 
 
 ## Dev Tools with GUI
@@ -458,6 +544,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [gdbgui](https://github.com/cs01/gdbgui) - a browser-based frontend/gui for GDB _(`Python`)_
 
+* [lime](https://github.com/limetext/lime) - open source API-compatible alternative to the text editor Sublime Text _(`None`)_
+
 
 ## System Tools without CLI
 
@@ -467,8 +555,12 @@ For each elements there's the main programming language used in the project, if 
 
 * [WinFsp](https://github.com/billziss-gh/winfsp) - similar to FUSE, but for Windows _(`C`)_
 
+* [qutebrowser](https://github.com/qutebrowser/qutebrowser) - a keyboard-driven, vim-like browser based on PyQt5 _(`Python`)_
+
 
 ## macOS
+
+* [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - a practical guide to securing macOS
 
 * [itermplot](https://github.com/daleroberts/itermplot) - an awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal _(`Python`)_
 
@@ -478,10 +570,21 @@ For each elements there's the main programming language used in the project, if 
 
 * [noah](https://github.com/linux-noah/noah) - Bash on Ubuntu on macOS _(`C`)_
 
+* [OSX-KVM](https://github.com/kholia/OSX-KVM) - running Mac OS X El Capitan and macOS Sierra on QEMU/KVM _(`Shell`)_
+
+* [dev-setup](https://github.com/donnemartin/dev-setup) - Mac OS X development environment setup: easy-to-understand instructions with automated setup scripts for developer tools _(`Python`)_
+
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - a collection of awesome Mac applications and tools for developers and designers
+
 
 ## Vim
 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - a code-completion engine for Vim _(`Python`)_
+
+
+## iOS
+
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - collaborative list of open-source iOS apps _(`Swift`)_
 
 
 ## Uncategorized
@@ -502,85 +605,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [clib](https://github.com/clibs/clib) - package manager for the C programming language _(`C`)_
 
-* [Gallium](https://github.com/alexflint/gallium) - a library for managing windows, menus, dock icons, and desktop notifications _(`Go`)_
-
-* [httpstat](https://github.com/davecheney/httpstat) - like curl -v with colours _(`Go`)_
-
-* [dripcap](https://github.com/dripcap/dripcap) - caffeinated packet analyzer _(`JavaScript`)_
-
 * [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheatsheet _(`Python`)_
-
-* [OSX-KVM](https://github.com/kholia/OSX-KVM) - running Mac OS X El Capitan and macOS Sierra on QEMU/KVM _(`Shell`)_
-
-* [GoReplay](https://github.com/buger/goreplay) - an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data _(`Go`)_
-
-* [open-color](https://github.com/yeun/open-color) - color scheme for UI design _(`CSS`)_
-
-* [Permissify](https://github.com/holidaycheck/Permissify) - simplifying Android Permissions _(`Java`)_
-
-* [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics _(`C++`)_
-
-* [teleport](https://github.com/gravitational/teleport) - modern SSH server for clusters and teams _(`Go`)_
-
-* [armor](https://github.com/labstack/armor) - uncomplicated, modern HTTP server _(`Go`)_
-
-* [watcher](https://github.com/radovskyb/watcher) - a Go package for watching for files or directory changes without using filesystem events _(`Go`)_
-
-* [traces](https://github.com/datascopeanalytics/traces) - a Python library for unevenly-spaced time series analysis _(`Python`)_
-
-* [lambda-packages](https://github.com/Miserlou/lambda-packages) - various popular python libraries, pre-compiled to be compatible with AWS Lambda _(`Shell`)_
-
-* [wait-for-it](https://github.com/vishnubob/wait-for-it) - pure bash script to test and wait on the availability of a TCP host and port _(`Shell`)_
-
-* [zap](https://github.com/uber-go/zap) - fast, structured, leveled logging in Go _(`Go`)_
-
-* [gitless](https://github.com/sdg-mit/gitless) - a version control system built on top of Git _(`Python`)_
-
-* [text-spinners](https://github.com/tawian/text-spinners) - pure text, CSS only, font independent, inline loading indicators _(`CSS`)_
-
-* [hues](https://github.com/prashnts/hues) - colored terminal text made easy for Python and happiness _(`Python`)_
-
-* [nativefier](https://github.com/jiahaog/nativefier) - make any web page a desktop application _(`JavaScript`)_
-
-* [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) - an Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers _(`Java`)_
-
-* [og-aws](https://github.com/open-guides/og-aws) - a practical guide to Amazon Web Services _(`Shell`)_
-
-* [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - a curated list of awesome JSON datasets that don't require authentication _(`JavaScript`)_
-
-* [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - a collection of awesome web crawler, spider in different languages
-
-* [ttyd](https://github.com/tsl0922/ttyd) - share your terminal over the web _(`C`)_
-
-* [lime](https://github.com/limetext/lime) - open source API-compatible alternative to the text editor Sublime Text _(`None`)_
-
-* [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) _(`Python`)_
-
-* [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons _(`CSS`)_
-
-* [lptrace](https://github.com/khamidou/lptrace) - trace any Python program, anywhere! _(`Python`)_
-
-* [dev-setup](https://github.com/donnemartin/dev-setup) - Mac OS X development environment setup:  easy-to-understand instructions with automated setup scripts for developer tools _(`Python`)_
-
-* [gron](https://github.com/tomnomnom/gron) - make JSON greppable! _(`Go`)_
-
-* [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS _(`Python`)_
-
-* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - collaborative list of open-source iOS apps _(`Swift`)_
-
-* [pget](https://github.com/Code-Hex/pget) - parallel file download client _(`Go`)_
-
-* [orgalorg](https://github.com/reconquest/orgalorg) - parallel SSH commands executioner and file synchronization tool _(`Go`)_
-
-* [barely](https://github.com/reconquest/barely) - simple and extensible status bar to pretty display of Go-lang program's progress _(`Go`)_
-
-* [slate](https://github.com/ianstormtaylor/slate) - a completely customizable framework for building rich text editors. _(`JavaScript`)_
-
-* [Material Kit](https://github.com/creativetimofficial/material-kit) - a free Bootstrap UI Kit with a fresh, new design inspired by Google's material design
-
-* [BlazeCSS](https://github.com/BlazeCSS/Blaze) - open Source modular CSS toolkit utilising BEM conventions to provide great structure for building websites quickly _(`CSS`)_
-
-* [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS _(`CSS`)_
 
 * [marp](https://github.com/yhatt/marp) - Markdown presentation writer, powered by Electron _(`CoffeeScript`)_
 
@@ -590,33 +615,15 @@ For each elements there's the main programming language used in the project, if 
 
 * [Awesome Hyper](https://github.com/bnb/awesome-hyper) - a curated list of sweet Hyper packages, themes, and resources
 
-* [wifi-password](https://github.com/rauchg/wifi-password) - get the password of the wifi you're on _(`Bash`)_
-
 * [bpkg](https://github.com/bpkg/bpkg) - lightweight bash package manager _(`Shell`)_
 
 * [cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line _(`Python`)_
 
-* [BruteXSS](https://github.com/shawarkhanethicalhacker/BruteXSS) - cross-site scripting bruteforcer _(`Python`)_
-
-* [piknik](https://github.com/jedisct1/piknik) - copy/paste anything over the network _(`Go`)_
-
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - a golang ebook intro how to build a web with golang
-
-* [vuls](https://github.com/future-architect/vuls) - vulnerability scanner for Linux/FreeBSD, agentless, written in Go _(`Go`)_
-
-* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - a collection of awesome Mac applications and tools for developers and designers
-
-* [qutebrowser](https://github.com/qutebrowser/qutebrowser) - a keyboard-driven, vim-like browser based on PyQt5 _(`Python`)_
 
 * [awesome](https://github.com/sindresorhus/awesome) - curated list of awesome lists
 
-* [frp](https://github.com/fatedier/frp) - a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet _(`Go`)_
-
 * [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - a list of awesome applications, softwares, tools and other materials for Linux distros
-
-* [checkup](https://github.com/sourcegraph/checkup) - distributed, lock-free, self-hosted health checks and status pages _(`Go`)_
-
-* [micro](https://github.com/zyedidia/micro) - a modern and intuitive terminal-based text editor _(`Go`)_
 
 * [doc2text](https://github.com/jlsutherland/doc2text) - detect text blocks and OCR poorly scanned PDFs in bulk _(`Python`)_
 
@@ -625,10 +632,6 @@ For each elements there's the main programming language used in the project, if 
 * [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple _(`Python`)_
 
 * [with](https://github.com/mchav/with) - command prefixing for continuous workflow using a single tool _(`Bash`)_
-
-* [dokku](https://github.com/dokku/dokku) - a docker-powered PaaS that helps you build and manage the lifecycle of applications _(`Shell`)_
-
-* [docker-mailserver](https://github.com/tomav/docker-mailserver) - a fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker _(`Shell`)_
 
 * [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - this is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers _(`JavaScript`)_
 
