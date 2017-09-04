@@ -664,8 +664,6 @@ For each elements there's the main programming language used in the project, if 
 
 * [Black Magic Probe](https://github.com/blacksphere/blackmagic) - a modern in-application debugging tool for embedded microprocessors _(`C`)_
 
-* [awesome](https://github.com/sindresorhus/awesome) - curated list of awesome lists
-
 * [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - a list of awesome applications, softwares, tools and other materials for Linux distros
 
 * [doc2text](https://github.com/jlsutherland/doc2text) - detect text blocks and OCR poorly scanned PDFs in bulk _(`Python`)_
