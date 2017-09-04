@@ -1,4 +1,6 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/whitone/awesome-discoveries/master/media/logo.png" alt="Awesome Discoveries logo"></h1>
+[<img src="https://raw.githubusercontent.com/whitone/awesome-discoveries/master/media/logo.png" align="right" width="170" alt="Awesome Discoveries logo">](https://github.com/whitone/awesome-discoveries)
+
+# Awesome Discoveries [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome discoveries based on repositories found using [GitHub Trending](https://github.com/trending).
 
