@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/whitone/awesome-discoveries/master/media/logo.png" alt="Awesome Discoveries logo"></h1>
 
-A curated list of awesome discoveries based on repositories found using [GitHub Trending](https://github.com/trending).
+> A curated list of awesome discoveries based on repositories found using [GitHub Trending](https://github.com/trending).
 
 For each elements there's the main programming language used in the project, if applicable.
 
@@ -13,15 +13,17 @@ For each elements there's the main programming language used in the project, if 
 - [Shell](#shell)
 - [Libraries](#libraries)
 - [CLI Utilities](#cli-utilities)
-- [Git](#git)
+- [Git and Version Control Systems](#git-and-version-control-systems)
 - [Android Hacking](#android-hacking)
-- [Chromecast](#chromecast)
 - [Containers](#containers)
 - [Machine Learning](#machine-learning)
 - [Python Hacks](#python-hacks)
 - [Servers](#servers)
 - [Simulators](#simulators)
 - [Graphics](#graphics)
+- [Dev Tools with GUI](#dev-tools-with-gui)
+- [System Tools without CLI](#system-tools-without-cli)
+- [macOS](#macos)
 - [Uncategorized](#uncategorized)
 
 
@@ -356,7 +358,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [chart](https://github.com/marianogappa/chart) - quick & smart charting for STDIN _(`Go`)_
 
-* [termplay](https://github.com/legolord208/termplay) - play image/video in your terminal _(`Rust`)_
+* [termplay](https://github.com/jD91mZM2/termplay) - play image/video in your terminal _(`Rust`)_
 
 * [sudo](https://github.com/mattn/sudo) - sudo for windows _(`Go`)_
 
@@ -487,11 +489,6 @@ For each elements there's the main programming language used in the project, if 
 * [freeline](https://github.com/alibaba/freeline) - a super fast build tool for Android, an alternative to Instant Run _(`Java`)_
 
 
-## Cromecast
-
-* [mkchromecast](https://github.com/muammar/mkchromecast) - cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices _(`Python`)_
-
-
 ## Containers
 
 * [DockerSlim](https://github.com/docker-slim/docker-slim) -  optimize and secure your Docker containers _(`Go`)_
@@ -555,6 +552,8 @@ For each elements there's the main programming language used in the project, if 
 * [lptrace](https://github.com/khamidou/lptrace) - trace any Python program, anywhere! _(`Python`)_
 
 * [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheatsheet _(`Python`)_
+
+* [mkchromecast](https://github.com/muammar/mkchromecast) - cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices _(`Python`)_
 
 
 ## Servers
