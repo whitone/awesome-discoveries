@@ -9,7 +9,6 @@ For each elements there's the main programming language used in the project, if 
 
 - [Networking](#networking)
 - [DevOps Utilities](#devops-utilities)
-- [Bots](#bots)
 - [Amazon Web Services](#amazon-web-services)
 - [Shell](#shell)
 - [Libraries](#libraries)
@@ -20,108 +19,10 @@ For each elements there's the main programming language used in the project, if 
 - [Containers](#containers)
 - [Machine Learning](#machine-learning)
 - [Python Hacks](#python-hacks)
-- [Games](#games)
 - [Servers](#servers)
 - [Simulators](#simulators)
 - [Graphics](#graphics)
 - [Uncategorized](#uncategorized)
-
-
-## Uncategorized
-
-* [business-card](https://github.com/opieters/business-card) - a business card in LaTeX _(`LaTeX`)_
-
-* [Open Source Guides](https://github.com/github/opensource.guide) - a collection of resources to run and contribute to an open source project
-
-* [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - creative and unusual things that can be done with the Windows API _(`C#`)_
-
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - a mostly reasonable approach to JavaScript
-
-* [OBS Studio](https://github.com/jp9000/obs-studio) - free and open source software for live streaming and screen recording _(`C++`)_
-
-* [mpv](https://github.com/mpv-player/mpv) - a media player based on MPlayer and mplayer2 _(`C`)_
-
-* [Black Magic Probe](https://github.com/blacksphere/blackmagic) - a modern in-application debugging tool for embedded microprocessors _(`C`)_
-
-* [clib](https://github.com/clibs/clib) - package manager for the C programming language _(`C`)_
-
-* [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheatsheet _(`Python`)_
-
-* [awesome-java](https://github.com/akullpp/awesome-java) - a curated list of awesome Java frameworks, libraries and software
-
-* [Awesome Hyper](https://github.com/bnb/awesome-hyper) - a curated list of sweet Hyper packages, themes, and resources
-
-* [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - a golang ebook intro how to build a web with golang
-
-* [awesome](https://github.com/sindresorhus/awesome) - curated list of awesome lists
-
-* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - a list of awesome applications, softwares, tools and other materials for Linux distros
-
-* [doc2text](https://github.com/jlsutherland/doc2text) - detect text blocks and OCR poorly scanned PDFs in bulk _(`Python`)_
-
-* [libraries](https://github.com/gozfree/libraries) - lightweight libraries, wrapper and extension of POSIX _(`C`)_
-
-* [realize](https://github.com/tockins/realize) - Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths _(`Go`)_
-
-* [coala](https://github.com/coala/coala) - a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use _(`Python`)_
-
-* [freeline](https://github.com/alibaba/freeline) - a super fast build tool for Android, an alternative to Instant Run _(`Java`)_
-
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - freely available programming books
-
-* [WeFlow](https://github.com/Tencent/WeFlow) - an efficient, powerful, cross-platform web front-end development workflow tool  _(`JavaScript`)_
-
-* [yakyak](https://github.com/yakyak/yakyak) - desktop chat client for Google Hangouts _(`CoffeeScript`)_
-
-* [monaco-editor](https://github.com/Microsoft/monaco-editor) - a browser based code editor _(`JavaScript`)_
-
-* [lemonade-stand](https://github.com/nayafia/lemonade-stand) - a handy guide to financial support for open source
-
-* [iris](https://github.com/kataras/iris) - the fastest web framework for Go, HTTP/2 Ready-To-GO _(`Go`)_
-
-* [places](https://github.com/algolia/places) - turn any HTML input form into an address autocomplete _(`JavaScript`)_
-
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - a curated list of awesome Machine Learning frameworks, libraries and software
-
-* [Ansible Container](https://github.com/ansible/ansible-container) - a tool to build Docker images and orchestrate containers using only Ansible playbooks _(`Python`)_
-
-* [Instant-Movie-Streamer](https://github.com/yask123/Instant-Movie-Streamer) - streams the movie/tv series instantly _(`Python`)_
-
-* [wwdc-downloader](https://github.com/ohoachuck/wwdc-downloader) - WWDC 2016 video downloader script _(`Swift`)_
-
-* [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
-
-* [Træfik](https://github.com/containous/traefik) - a modern reverse proxy _(`Go`)_
-
-* [gitkit-js](https://github.com/SamyPesse/gitkit-js) - pure javascript implementation of Git (Node.js and Browser) _(`JavaScript`)_
-
-* [lzfse](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool _(`C`)_
-
-* [flatpickr](https://github.com/chmln/flatpickr) - lightweight and powerful datetimepicker with no dependencies _(`JavaScript`)_
-
-* [SoCLI](https://github.com/gautamkrishnar/socli) - StackOverflow command line client  _(`Python`)_
-
-* [Certbot](https://github.com/certbot/certbot) - EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server _(`Python`)_
-
-* [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - admin control panel theme based on Bootstrap _(`JavaScript`)_
-
-* [PhantomJS](https://github.com/ariya/phantomjs) - scriptable headless WebKit _(`JavaScript`)_
-
-* [PySyncObj](https://github.com/bakwc/PySyncObj) - a library for replicating your python class between multiple servers, based on raft protocol _(`Python`)_
-
-* [storm](https://github.com/emre/storm) - manage your SSH like a boss _(`Python`)_
-
-* [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement _(`Go`)_
-
-* [influxdb](https://github.com/influxdata/influxdb) - scalable datastore for metrics, events, and real-time analytics _(`Go`)_
-
-* [TiDB](https://github.com/pingcap/tidb) - a distributed NewSQL database compatible with MySQL protocol _(`Go`)_
-
-* [cobra](https://github.com/spf13/cobra) - a commander for modern Go CLI interactions _(`Go`)_
-
-* [slfsrv](https://github.com/BrentNoorda/slfsrv) - create simple, cross-platform GUI applications, or wrap GUIs around command-line applications, using HTML/JS/CSS and your own browser _(`JavaScript`)_
-
-* [pyspider](https://github.com/binux/pyspider) - a powerful spider (web crawler) system _(`Python`)_
 
 
 ## Networking
@@ -257,10 +158,23 @@ For each elements there's the main programming language used in the project, if 
 
 * [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - this is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers _(`JavaScript`)_
 
+* [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - a golang ebook intro how to build a web with golang
 
-## Bots
+* [Træfik](https://github.com/containous/traefik) - a modern reverse proxy _(`Go`)_
 
-* [tbot](https://github.com/yanzay/tbot) - Telegram Bot Server _(`Go`)_
+* [iris](https://github.com/kataras/iris) - the fastest web framework for Go, HTTP/2 Ready-To-GO _(`Go`)_
+
+* [Certbot](https://github.com/certbot/certbot) - EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server _(`Python`)_
+
+* [PySyncObj](https://github.com/bakwc/PySyncObj) - a library for replicating your python class between multiple servers, based on raft protocol _(`Python`)_
+
+* [storm](https://github.com/emre/storm) - manage your SSH like a boss _(`Python`)_
+
+* [hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement _(`Go`)_
+
+* [influxdb](https://github.com/influxdata/influxdb) - scalable datastore for metrics, events, and real-time analytics _(`Go`)_
+
+* [pyspider](https://github.com/binux/pyspider) - a powerful spider (web crawler) system _(`Python`)_
 
 
 ## Amazon Web Services
@@ -417,6 +331,20 @@ For each elements there's the main programming language used in the project, if 
 
 * [AppDevKit](https://github.com/yahoo/AppDevKit) - an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs _(`Objective-C`)_
 
+* [clib](https://github.com/clibs/clib) - package manager for the C programming language _(`C`)_
+
+* [awesome-java](https://github.com/akullpp/awesome-java) - a curated list of awesome Java frameworks, libraries and software
+
+* [Awesome Hyper](https://github.com/bnb/awesome-hyper) - a curated list of sweet Hyper packages, themes, and resources
+
+* [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
+
+* [flatpickr](https://github.com/chmln/flatpickr) - lightweight and powerful datetimepicker with no dependencies _(`JavaScript`)_
+
+* [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - admin control panel theme based on Bootstrap _(`JavaScript`)_
+
+* [cobra](https://github.com/spf13/cobra) - a commander for modern Go CLI interactions _(`Go`)_
+
 
 ## CLI Utilities
 
@@ -498,6 +426,20 @@ For each elements there's the main programming language used in the project, if 
 
 * [with](https://github.com/mchav/with) - command prefixing for continuous workflow using a single tool _(`Bash`)_
 
+* [libraries](https://github.com/gozfree/libraries) - lightweight libraries, wrapper and extension of POSIX _(`C`)_
+
+* [realize](https://github.com/tockins/realize) - Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths _(`Go`)_
+
+* [Instant-Movie-Streamer](https://github.com/yask123/Instant-Movie-Streamer) - streams the movie/tv series instantly _(`Python`)_
+
+* [wwdc-downloader](https://github.com/ohoachuck/wwdc-downloader) - WWDC 2016 video downloader script _(`Swift`)_
+
+* [lzfse](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool _(`C`)_
+
+* [SoCLI](https://github.com/gautamkrishnar/socli) - StackOverflow command line client  _(`Python`)_
+
+* [slfsrv](https://github.com/BrentNoorda/slfsrv) - create simple, cross-platform GUI applications, or wrap GUIs around command-line applications, using HTML/JS/CSS and your own browser _(`JavaScript`)_
+
 
 ## Git and Version Control Systems
 
@@ -523,6 +465,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [gitless](https://github.com/sdg-mit/gitless) - a version control system built on top of Git _(`Python`)_
 
+* [gitkit-js](https://github.com/SamyPesse/gitkit-js) - pure javascript implementation of Git (Node.js and Browser) _(`JavaScript`)_
+
 
 ## Android Hacking
 
@@ -539,6 +483,8 @@ For each elements there's the main programming language used in the project, if 
 * [Permissify](https://github.com/holidaycheck/Permissify) - simplifying Android Permissions _(`Java`)_
 
 * [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) - an Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers _(`Java`)_
+
+* [freeline](https://github.com/alibaba/freeline) - a super fast build tool for Android, an alternative to Instant Run _(`Java`)_
 
 
 ## Cromecast
@@ -564,6 +510,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [docker-mailserver](https://github.com/tomav/docker-mailserver) - a fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker _(`Shell`)_
 
+* [Ansible Container](https://github.com/ansible/ansible-container) - a tool to build Docker images and orchestrate containers using only Ansible playbooks _(`Python`)_
+
 
 ## Machine Learning
 
@@ -576,6 +524,8 @@ For each elements there's the main programming language used in the project, if 
 * [Naked Tensor](https://github.com/jostmey/NakedTensor) - bare bone examples of machine learning in TensorFlow _(`Python`)_
 
 * [Sonnet](https://github.com/deepmind/sonnet) - a library built on top of TensorFlow for building complex neural networks _(`Python`)_
+
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - a curated list of awesome Machine Learning frameworks, libraries and software
 
 
 ## Python Hacks
@@ -604,13 +554,12 @@ For each elements there's the main programming language used in the project, if 
 
 * [lptrace](https://github.com/khamidou/lptrace) - trace any Python program, anywhere! _(`Python`)_
 
-
-## Games
-
-* [OpenLara](https://github.com/XProger/OpenLara) - classic Tomb Raider open-source engine _(`C`)_
+* [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheatsheet _(`Python`)_
 
 
 ## Servers
+
+* [tbot](https://github.com/yanzay/tbot) - Telegram Bot Server _(`Go`)_
 
 * [simple-httpd](https://github.com/briandowns/simple-httpd) - a replacement for Python SimpleHTTPServer and optionally provides automatic TLS via Let's Encrypt over HTTP2 or generated self-signed certificates _(`Go`)_
 
@@ -637,6 +586,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [GoReplay](https://github.com/buger/goreplay) - an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data _(`Go`)_
 
+* [PhantomJS](https://github.com/ariya/phantomjs) - scriptable headless WebKit _(`JavaScript`)_
+
 
 ## Graphics
 
@@ -659,7 +610,9 @@ For each elements there's the main programming language used in the project, if 
 
 * [gdbgui](https://github.com/cs01/gdbgui) - a browser-based frontend/gui for GDB _(`Python`)_
 
-* [lime](https://github.com/limetext/lime) - open source API-compatible alternative to the text editor Sublime Text _(`None`)_
+* [lime](https://github.com/limetext/lime) - open source API-compatible alternative to the text editor Sublime Text _(`Java`)_
+
+* [monaco-editor](https://github.com/Microsoft/monaco-editor) - a browser based code editor _(`JavaScript`)_
 
 
 ## System Tools without CLI
@@ -694,11 +647,43 @@ For each elements there's the main programming language used in the project, if 
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - a collection of awesome Mac applications and tools for developers and designers
 
 
-## Vim
+## Uncategorized
+
+* [business-card](https://github.com/opieters/business-card) - a business card in LaTeX _(`LaTeX`)_
+
+* [Open Source Guides](https://github.com/github/opensource.guide) - a collection of resources to run and contribute to an open source project
+
+* [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - creative and unusual things that can be done with the Windows API _(`C#`)_
+
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - a mostly reasonable approach to JavaScript
+
+* [OBS Studio](https://github.com/jp9000/obs-studio) - free and open source software for live streaming and screen recording _(`C++`)_
+
+* [mpv](https://github.com/mpv-player/mpv) - a media player based on MPlayer and mplayer2 _(`C`)_
+
+* [Black Magic Probe](https://github.com/blacksphere/blackmagic) - a modern in-application debugging tool for embedded microprocessors _(`C`)_
+
+* [awesome](https://github.com/sindresorhus/awesome) - curated list of awesome lists
+
+* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - a list of awesome applications, softwares, tools and other materials for Linux distros
+
+* [doc2text](https://github.com/jlsutherland/doc2text) - detect text blocks and OCR poorly scanned PDFs in bulk _(`Python`)_
+
+* [coala](https://github.com/coala/coala) - a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use _(`Python`)_
+
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - freely available programming books
+
+* [WeFlow](https://github.com/Tencent/WeFlow) - an efficient, powerful, cross-platform web front-end development workflow tool  _(`JavaScript`)_
+
+* [yakyak](https://github.com/yakyak/yakyak) - desktop chat client for Google Hangouts _(`CoffeeScript`)_
+
+* [lemonade-stand](https://github.com/nayafia/lemonade-stand) - a handy guide to financial support for open source
+
+* [places](https://github.com/algolia/places) - turn any HTML input form into an address autocomplete _(`JavaScript`)_
+
+* [TiDB](https://github.com/pingcap/tidb) - a distributed NewSQL database compatible with MySQL protocol _(`Go`)_
 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - a code-completion engine for Vim _(`Python`)_
 
-
-## iOS
-
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - collaborative list of open-source iOS apps _(`Swift`)_
+yep 
