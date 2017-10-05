@@ -505,7 +505,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [Moby](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems _(`Go`)_
 
-* [FaaS](https://github.com/alexellis/faas) - functions as a Service on Docker Swarm _(`Bash`)_
+* [FaaS](https://github.com/openfaas/faas) - functions as a Service on Docker Swarm _(`Bash`)_
 
 * [wait-for-it](https://github.com/vishnubob/wait-for-it) - pure bash script to test and wait on the availability of a TCP host and port _(`Shell`)_
 
