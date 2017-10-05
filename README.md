@@ -349,6 +349,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [cobra](https://github.com/spf13/cobra) - a commander for modern Go CLI interactions _(`Go`)_
 
+* [go-git](https://github.com/src-d/go-git) - a highly extensible Git implementation in pure Go _(`Go`)_
+
 
 ## CLI Utilities
 
@@ -470,6 +472,8 @@ For each elements there's the main programming language used in the project, if 
 * [gitless](https://github.com/sdg-mit/gitless) - a version control system built on top of Git _(`Python`)_
 
 * [gitkit-js](https://github.com/SamyPesse/gitkit-js) - pure javascript implementation of Git (Node.js and Browser) _(`JavaScript`)_
+
+* [git-ftp](https://github.com/git-ftp/git-ftp) - uses Git to upload only changed files to FTP servers _(`Bash`)_
 
 
 ## Android Hacking
