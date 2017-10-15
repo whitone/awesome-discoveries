@@ -394,7 +394,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [GopherJS](https://github.com/gopherjs/gopherjs) - a compiler from Go to JavaScript _(`Go`)_
 
-* [usql](https://github.com/knq/usql) - a universal command-line interface for SQL databases _(`Go`)_
+* [usql](https://github.com/xo/usql) - a universal command-line interface for SQL databases _(`Go`)_
 
 * [peco](https://github.com/peco/peco) - simplistic interactive filtering tool _(`Go`)_
 
@@ -446,7 +446,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [slfsrv](https://github.com/BrentNoorda/slfsrv) - create simple, cross-platform GUI applications, or wrap GUIs around command-line applications, using HTML/JS/CSS and your own browser _(`JavaScript`)_
 
-* [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. _(`Rust`)_
+* [fd](https://github.com/sharkdp/fd) - a simple, fast and user-friendly alternative to find _(`Rust`)_
 
 
 ## Git and Version Control Systems
