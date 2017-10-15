@@ -446,6 +446,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [slfsrv](https://github.com/BrentNoorda/slfsrv) - create simple, cross-platform GUI applications, or wrap GUIs around command-line applications, using HTML/JS/CSS and your own browser _(`JavaScript`)_
 
+* [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. _(`Rust`)_
+
 
 ## Git and Version Control Systems
 
