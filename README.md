@@ -199,6 +199,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS _(`Python`)_
 
+* [assume-role](https://github.com/coinbase/assume-role) - a CLI tool making it easy to assume IAM roles through an AWS Bastion account _(`Bash`)_
+
 
 ## Shell
 
