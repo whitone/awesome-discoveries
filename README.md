@@ -134,7 +134,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [gopli](https://github.com/timakin/gopli) - DB replication tool to synchronize data with multi environments _(`Go`)_
 
-* [Alerta](https://github.com/guardian/alerta) - a monitoring system _(`Python`)_
+* [Alerta](https://github.com/alerta/alerta) - a monitoring system _(`Python`)_
 
 * [radare2](https://github.com/radare/radare2) - portable unix-like reverse engineering framework and commandline tools _(`C`)_
 
