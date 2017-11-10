@@ -67,6 +67,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple _(`Python`)_
 
+* [Brook](https://github.com/txthinking/brook) - a cross-platform Linux/MacOS/Windows/Android/iOS proxy software _(`Go`)_
+
 
 ## DevOps Utilities
 
@@ -179,6 +181,8 @@ For each elements there's the main programming language used in the project, if 
 * [influxdb](https://github.com/influxdata/influxdb) - scalable datastore for metrics, events, and real-time analytics _(`Go`)_
 
 * [pyspider](https://github.com/binux/pyspider) - a powerful spider (web crawler) system _(`Python`)_
+
+* [skm](https://github.com/TimothyYe/skm) - a simple and powerful SSH keys manager _(`Go`)_
 
 
 ## Amazon Web Services
@@ -693,4 +697,6 @@ For each elements there's the main programming language used in the project, if 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - a code-completion engine for Vim _(`Python`)_
 
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - collaborative list of open-source iOS apps _(`Swift`)_
-yep 
+
+* [js2flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - a visualization library to convert any JavaScript code into beautiful SVG flowchart _(`JavaScript`)_
+
