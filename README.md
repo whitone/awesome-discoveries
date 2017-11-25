@@ -331,7 +331,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [Material Kit](https://github.com/creativetimofficial/material-kit) - a free Bootstrap UI Kit with a fresh, new design inspired by Google's material design
 
-* [BlazeCSS](https://github.com/BlazeCSS/Blaze) - open Source modular CSS toolkit utilising BEM conventions to provide great structure for building websites quickly _(`CSS`)_
+* [BlazeUI](https://github.com/BlazeUI/blaze) - open Source modular CSS toolkit utilising BEM conventions to provide great structure for building websites quickly _(`CSS`)_
 
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS _(`CSS`)_
 
