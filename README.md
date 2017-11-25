@@ -523,6 +523,8 @@ For each elements there's the main programming language used in the project, if 
 
 * [Ansible Container](https://github.com/ansible/ansible-container) - a tool to build Docker images and orchestrate containers using only Ansible playbooks _(`Python`)_
 
+* [container-diff](https://github.com/GoogleCloudPlatform/container-diff) - diff your Docker containers _(`Go`)_
+
 
 ## Machine Learning
 
