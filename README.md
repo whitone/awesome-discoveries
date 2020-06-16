@@ -39,7 +39,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - count the number of people around you by monitoring wifi signals _(`Python`)_
 
-* [rdrp](https://github.com/kshvmdn/rdrp) - a cross-platform command line tool for sending and receiving files over your local network, inspired by AirDrop _(`Go`)_
+* [rdrp](https://github.com/kashav/rdrp) - a cross-platform command line tool for sending and receiving files over your local network, inspired by AirDrop _(`Go`)_
 
 * [dt](https://github.com/42wim/dt) - DNS tool that displays information about your domain _(`Go`)_
 
@@ -56,8 +56,6 @@ For each elements there's the main programming language used in the project, if 
 * [create_ap](https://github.com/oblique/create_ap) - creates a NATed or Bridged WiFi Access Point _(`Bash`)_
 
 * [KickThemOut](https://github.com/k4m4/kickthemout) - kick devices off your network by performing an ARP Spoof attack _(`Python`)_
-
-* [dripcap](https://github.com/dripcap/dripcap) - caffeinated packet analyzer _(`JavaScript`)_
 
 * [wifi-password](https://github.com/rauchg/wifi-password) - get the password of the wifi you're on _(`Bash`)_
 
@@ -84,7 +82,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - a curated list of amazingly awesome open source sysadmin resources
 
-* [awesome-ciandcd](https://github.com/ciandcd/awesome-ciandcd) - continuous integration and continuous delivery
+* [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) - a list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -96,11 +94,11 @@ For each elements there's the main programming language used in the project, if 
 
 * [OpenVPN-install](https://github.com/Angristan/OpenVPN-install) - setup your own secure VPN server in just a few minutes _(`Bash`)_
 
-* [Public APIs](https://github.com/toddmotto/public-apis) - a collective list of free JSON APIs for use in web development
+* [Public APIs](https://github.com/public-apis/public-apis) - a collective list of free JSON APIs for use in web development
 
 * [Packer](https://github.com/hashicorp/packer) - a tool for building identical machine images for multiple platforms from a single source configuration _(`Go`)_
 
-* [climate](https://github.com/adtac/climate) - a huge number of tools for developers to automate Linux system _(`Bash`)__
+* [climate](https://github.com/adtac/climate) - a huge number of tools for developers to automate Linux system _(`Bash`)_
 
 * [GoAccess](https://github.com/allinurl/goaccess) - a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser _(`C`)_
 
@@ -108,7 +106,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [mimipenguin](https://github.com/huntergregal/mimipenguin) - a tool to dump the login password from the current linux user _(`Bash`)_
 
-* [autovpn](https://github.com/adtac/autovpn) - connect to random VPN servers from vpngate.net in a selected country
+* [autovpn2](https://github.com/ruped24/autovpn2) - connect to random VPN servers from vpngate.net in a selected country _(`Python`)_
 
 * [checkmail](https://github.com/badoux/checkmail) - email validator _(`Go`)_
 
@@ -120,13 +118,11 @@ For each elements there's the main programming language used in the project, if 
 
 * [Last.Backend](https://github.com/lastbackend/lastbackend) - an open-source platform to build a personal cloud based on kubernetes technology _(`Go`)_
 
-* [Ana](https://github.com/dannyvankooten/ana) - open source web analytics _(`Go` `JavaScript`)_
+* [Fathom Lite](https://github.com/usefathom/fathom) - open source web analytics _(`Go` `JavaScript`)_
 
 * [goa](https://github.com/goadesign/goa) - a framework for building micro-services and REST APIs using a unique design-first approach _(`Go`)_
 
 * [RediSQL](https://github.com/RedBeardLab/rediSQL) - a Redis module that embedded SQLite _(`C`)_
-
-* [Sloth](https://github.com/coolcooldee/sloth) - a tool to generate scaffold code from SQL databases _(`Java`)_
 
 * [Prometheus](https://github.com/prometheus/prometheus) - a monitoring system and time series database _(`Go`)_
 
@@ -136,7 +132,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [Alerta](https://github.com/alerta/alerta) - a monitoring system _(`Python`)_
 
-* [radare2](https://github.com/radare/radare2) - portable unix-like reverse engineering framework and commandline tools _(`C`)_
+* [radare2](https://github.com/radareorg/radare2) - portable unix-like reverse engineering framework and commandline tools _(`C`)_
 
 * [Snoopy Logger](https://github.com/a2o/snoopy) - a tiny library that logs all executed commands on your system to syslog _(`C`)_
 
@@ -156,13 +152,13 @@ For each elements there's the main programming language used in the project, if 
 
 * [orgalorg](https://github.com/reconquest/orgalorg) - parallel SSH commands executioner and file synchronization tool _(`Go`)_
 
-* [BruteXSS](https://github.com/shawarkhanethicalhacker/BruteXSS) - cross-site scripting bruteforcer _(`Python`)_
+* [BruteXSS](https://github.com/rajeshmajumdar/BruteXSS) - cross-site scripting bruteforcer _(`Python`)_
 
 * [vuls](https://github.com/future-architect/vuls) - vulnerability scanner for Linux/FreeBSD, agentless, written in Go _(`Go`)_
 
 * [checkup](https://github.com/sourcegraph/checkup) - distributed, lock-free, self-hosted health checks and status pages _(`Go`)_
 
-* [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - this is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers _(`JavaScript`)_
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - this is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers _(`JavaScript`)_
 
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - a golang ebook intro how to build a web with golang
 
@@ -187,11 +183,9 @@ For each elements there's the main programming language used in the project, if 
 
 ## Amazon Web Services
 
-* [poormanscdn](https://github.com/alexandres/poormanscdn) - a caching proxy to Amazon S3 _(`Go`)_
-
 * [Zeus](https://github.com/DenizParlak/Zeus) - AWS auditing and hardening tool _(`Shell`)_
 
-* [aws-sam-local](https://github.com/awslabs/aws-sam-local) - AWS SAM Local is a CLI tool for local development and testing of Serverless applications _(`Go`)_
+* [aws-sam-cli](https://github.com/awslabs/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM _(`Go`)_
 
 * [LocalStack](https://github.com/localstack/localstack) - a fully functional local AWS cloud stack _(`Python`)_
 
@@ -226,7 +220,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [Thirsty](https://github.com/kalbhor/thirsty) - shell prompt reminds to drink water _(`Shell`)_
 
-* [Alacritty](https://github.com/jwilm/alacritty) - a cross-platform, GPU-accelerated terminal emulator _(`Rust`)_
+* [Alacritty](https://github.com/alacritty/alacritty) - a cross-platform, GPU-accelerated terminal emulator _(`Rust`)_
 
 * [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! _(`C#`)_
 
@@ -271,7 +265,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - a unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers _(`Python`)_
 
-* [Delegator.py](https://github.com/kennethreitz/delegator.py) - subprocesses for Humans 2.0 _(`Python`)_
+* [Delegator.py](https://github.com/amitt001/delegator.py) - subprocesses for Humans 2.0 _(`Python`)_
 
 * [Hellogopher](https://github.com/cloudflare/hellogopher) - Makefile for Go projects _(`Makefile`)_
 
@@ -281,11 +275,9 @@ For each elements there's the main programming language used in the project, if 
 
 * [aurora](https://github.com/logrusorgru/aurora) - library to add colors to cli tools _(`Go`)_
 
-* [q](https://github.com/y0ssar1an/q) - simply debug print _(`Go`)_
+* [q](https://github.com/ryboe/q) - simply debug print _(`Go`)_
 
 * [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - a curated list of awesome Go storage projects and libraries _(`Go`)_
-
-* [Dep](https://github.com/golang/dep) - a prototype dependency management tool _(`Go`)_
 
 * [Hero](https://github.com/shiyanhui/hero) - a handy, fast and powerful go template engine _(`Go`)_
 
@@ -301,7 +293,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [stb](https://github.com/nothings/stb) - single-file public domain libraries _(`C`)_
 
-* [Maya](https://github.com/kennethreitz/maya) - timestamps for Humans™ _(`Python`)_
+* [Maya](https://github.com/timofurrer/maya) - timestamps for Humans™ _(`Python`)_
 
 * [jsoniter](https://github.com/json-iterator/go) - fast and flexible JSON parser _(`Go`)_
 
@@ -331,7 +323,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [Material Kit](https://github.com/creativetimofficial/material-kit) - a free Bootstrap UI Kit with a fresh, new design inspired by Google's material design
 
-* [BlazeUI](https://github.com/BlazeUI/blaze) - open Source modular CSS toolkit utilising BEM conventions to provide great structure for building websites quickly _(`CSS`)_
+* [Blaze Atoms](https://github.com/BlazeSoftware/atoms) - open Source modular CSS toolkit utilising BEM conventions to provide great structure for building websites quickly _(`CSS`)_
 
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS _(`CSS`)_
 
@@ -349,9 +341,9 @@ For each elements there's the main programming language used in the project, if 
 
 * [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 
-* [flatpickr](https://github.com/chmln/flatpickr) - lightweight and powerful datetimepicker with no dependencies _(`JavaScript`)_
+* [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight and powerful datetimepicker with no dependencies _(`JavaScript`)_
 
-* [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - admin control panel theme based on Bootstrap _(`JavaScript`)_
+* [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - admin control panel theme based on Bootstrap _(`JavaScript`)_
 
 * [cobra](https://github.com/spf13/cobra) - a commander for modern Go CLI interactions _(`Go`)_
 
@@ -364,8 +356,6 @@ For each elements there's the main programming language used in the project, if 
 
 * [gtop](https://github.com/aksakalli/gtop) - system monitoring dashboard for terminal _(`JavaScript`)_
 
-* [mailit](https://github.com/dthree/mailit) - a tiny drop-in REST API to send emails _(`JavaScript`)_
-
 * [chart](https://github.com/marianogappa/chart) - quick & smart charting for STDIN _(`Go`)_
 
 * [termplay](https://github.com/jD91mZM2/termplay) - play image/video in your terminal _(`Rust`)_
@@ -374,7 +364,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [bingrep](https://github.com/m4b/bingrep) - like grep, but for binaries _(`Rust`)_
 
-* [fsql](https://github.com/kshvmdn/fsql) - search through your filesystem with SQL-esque queries _(`Go`)_
+* [fsql](https://github.com/kashav/fsql) - search through your filesystem with SQL-esque queries _(`Go`)_
 
 * [slit](https://github.com/tigrawap/slit) - a modern PAGER for viewing logs, get more than most in less time _(`Go`)_
 
@@ -424,7 +414,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [httpstat](https://github.com/davecheney/httpstat) - like curl -v with colours _(`Go`)_
 
-* [osquery](https://github.com/facebook/osquery) - SQL powered operating system instrumentation, monitoring, and analytics _(`C++`)_
+* [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics _(`C++`)_
 
 * [nativefier](https://github.com/jiahaog/nativefier) - make any web page a desktop application _(`JavaScript`)_
 
@@ -438,9 +428,9 @@ For each elements there's the main programming language used in the project, if 
 
 * [with](https://github.com/mchav/with) - command prefixing for continuous workflow using a single tool _(`Bash`)_
 
-* [libraries](https://github.com/gozfree/libraries) - lightweight libraries, wrapper and extension of POSIX _(`C`)_
+* [Gear-Lib](https://github.com/gozfree/gear-lib) - lightweight libraries, wrapper and extension of POSIX _(`C`)_
 
-* [realize](https://github.com/tockins/realize) - Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths _(`Go`)_
+* [realize](https://github.com/oxequa/realize) - Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths _(`Go`)_
 
 * [Instant-Movie-Streamer](https://github.com/yask123/Instant-Movie-Streamer) - streams the movie/tv series instantly _(`Python`)_
 
@@ -477,7 +467,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [git-recall](https://github.com/Fakerr/git-recall) - a git-log with ncurses _(`NodeJS`)_
 
-* [gitless](https://github.com/sdg-mit/gitless) - a version control system built on top of Git _(`Python`)_
+* [gitless](https://github.com/gitless-vcs/gitless) - a version control system built on top of Git _(`Python`)_
 
 * [gitkit-js](https://github.com/SamyPesse/gitkit-js) - pure javascript implementation of Git (Node.js and Browser) _(`JavaScript`)_
 
@@ -509,7 +499,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [gocker](https://github.com/ilourt/gocker) - a starter project using docker and golang _(`Go`)_
 
-* [distroless](https://github.com/GoogleCloudPlatform/distroless) - "Distroless" Docker Images that contain only your application and its runtime dependencies _(`Python`)_
+* [distroless](https://github.com/GoogleContainerTools/distroless) - "Distroless" Docker Images that contain only your application and its runtime dependencies _(`Python`)_
 
 * [Moby](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems _(`Go`)_
 
@@ -523,14 +513,14 @@ For each elements there's the main programming language used in the project, if 
 
 * [Ansible Container](https://github.com/ansible/ansible-container) - a tool to build Docker images and orchestrate containers using only Ansible playbooks _(`Python`)_
 
-* [container-diff](https://github.com/GoogleCloudPlatform/container-diff) - diff your Docker containers _(`Go`)_
+* [container-diff](https://github.com/GoogleContainerTools/container-diff) - diff your Docker containers _(`Go`)_
 
 
 ## Machine Learning
 
 * [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - essential Cheat Sheets for deep learning and machine learning researchers
 
-* [Typefont](https://github.com/Sirvasile/Typefont) - an algorithm written entirely in JavaScript that recognises the font of a text in a image using the Tesseract optical character recognition engine and some image processing libraries _(`JavaScript`)_
+* [Typefont](https://github.com/Vasile-Peste/Typefont) - an algorithm written entirely in JavaScript that recognises the font of a text in a image using the Tesseract optical character recognition engine and some image processing libraries _(`JavaScript`)_
 
 * [Face Recognition](https://github.com/ageitgey/face_recognition) - the world's simplest facial recognition api for Python and the command line _(`Python`)_
 
@@ -555,13 +545,13 @@ For each elements there's the main programming language used in the project, if 
 
 * [Pipfile](https://github.com/pypa/pipfile) - instead of requirements.txt _(`Python`)_
 
-* [pipenv](https://github.com/kennethreitz/pipenv) - automatic manager for Pipfile and virtualenv _(`Python`)_
+* [pipenv](https://github.com/pypa/pipenv) - automatic manager for Pipfile and virtualenv _(`Python`)_
 
 * [rePy2exe](https://github.com/4w4k3/rePy2exe) - reverse engineering tool for py2exe applications _(`Python`)_
 
 * [Japronto!](https://github.com/squeaky-pl/japronto) - a screaming-fast Python 3.5+ HTTP toolkit with pipelining HTTP server _(`Python`)_
 
-* [pseudo](https://github.com/alehander42/pseudo) - automated algorithm/library translation for Python, JS, Go, C#, Ruby _(`Python`)_
+* [pseudo](https://github.com/pseudo-lang/pseudo) - automated algorithm/library translation for Python, JS, Go, C#, Ruby _(`Python`)_
 
 * [Python Fire](https://github.com/google/python-fire) - a library for automatically generating CLIs from absolutely any Python object _(`Python`)_
 
@@ -578,7 +568,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [simple-httpd](https://github.com/briandowns/simple-httpd) - a replacement for Python SimpleHTTPServer and optionally provides automatic TLS via Let's Encrypt over HTTP2 or generated self-signed certificates _(`Go`)_
 
-* [postal](https://github.com/atech/postal) - a fully featured open source mail delivery platform for incoming & outgoing e-mail _(`Ruby`)_
+* [postal](https://github.com/postalhq/postal) - a fully featured open source mail delivery platform for incoming & outgoing e-mail _(`Ruby`)_
 
 * [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites _(`Go`)_
 
@@ -610,7 +600,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [open-color](https://github.com/yeun/open-color) - color scheme for UI design _(`CSS`)_
 
-* [text-spinners](https://github.com/tawian/text-spinners) - pure text, CSS only, font independent, inline loading indicators _(`CSS`)_
+* [text-spinners](https://github.com/maxbeier/text-spinners) - pure text, CSS only, font independent, inline loading indicators _(`CSS`)_
 
 * [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons _(`CSS`)_
 
@@ -649,9 +639,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [itermplot](https://github.com/daleroberts/itermplot) - an awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal _(`Python`)_
 
-* [macpack](https://github.com/murlokswarm/macpack) - program to package MacOS applications _(`Go`)_
-
-* [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - a curated list of shell commands and tools specific to OS X
+* [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-macos-command-line) - a curated list of shell commands and tools specific to macOS
 
 * [noah](https://github.com/linux-noah/noah) - Bash on Ubuntu on macOS _(`C`)_
 
@@ -672,13 +660,13 @@ For each elements there's the main programming language used in the project, if 
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - a mostly reasonable approach to JavaScript
 
-* [OBS Studio](https://github.com/jp9000/obs-studio) - free and open source software for live streaming and screen recording _(`C++`)_
+* [OBS Studio](https://github.com/obsproject/obs-studio) - free and open source software for live streaming and screen recording _(`C++`)_
 
 * [mpv](https://github.com/mpv-player/mpv) - a media player based on MPlayer and mplayer2 _(`C`)_
 
 * [Black Magic Probe](https://github.com/blacksphere/blackmagic) - a modern in-application debugging tool for embedded microprocessors _(`C`)_
 
-* [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) - a list of awesome applications, softwares, tools and other materials for Linux distros
+* [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - a list of awesome applications, softwares, tools and other materials for Linux distros
 
 * [doc2text](https://github.com/jlsutherland/doc2text) - detect text blocks and OCR poorly scanned PDFs in bulk _(`Python`)_
 
@@ -696,7 +684,7 @@ For each elements there's the main programming language used in the project, if 
 
 * [TiDB](https://github.com/pingcap/tidb) - a distributed NewSQL database compatible with MySQL protocol _(`Go`)_
 
-* [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - a code-completion engine for Vim _(`Python`)_
+* [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - a code-completion engine for Vim _(`Python`)_
 
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - collaborative list of open-source iOS apps _(`Swift`)_
 
